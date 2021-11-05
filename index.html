@@ -1,643 +1,580 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="title" content="alya agency ">
-    <meta name="description"
-        content="Edaji is a system developed to help recruitment agencies to save time, streamline their workflow and provide consistency">
-    <meta name="keywords"
-        content="recruitment agencies system for kenyan agencies,streamline your workflow,save your data free ,saudia,qatar">
-    <meta name="robots" content="index">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="language" content="English">
-    <meta name="author" content="Abdisatar Mohamed">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="title" content="alya agency " />
+    <meta
+      name="description"
+      content="Edaji is a system developed to help recruitment agencies to save time, streamline their workflow and provide consistency"
+    />
+    <meta
+      name="keywords"
+      content="recruitment agencies system for kenyan agencies,streamline your workflow,save your data free ,saudia,qatar"
+    />
+    <meta name="robots" content="index" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="language" content="English" />
+    <meta name="author" content="Abdisatar Mohamed" />
 
     <title>Alya Agency</title>
     <!-- Favicon -->
 
-
-    <link href="/assets/img/brand/favicon.png" rel="icon" type="image/png">
+    <link href="/assets/img/brand/favicon.png" rel="icon" type="image/png" />
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
-    <link href="/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"
+      rel="stylesheet"
+    />
+    <link
+      href="/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"
+      rel="stylesheet"
+    />
 
     <!-- Argon CSS -->
-    <link type="text/css" href="assets/css/argon.css" rel="stylesheet">
+    <link type="text/css" href="assets/css/argon.css" rel="stylesheet" />
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
     <style>
-        .card-whwd {
+      .card-whwd {
+        width: 4rem;
 
+        height: 4rem;
+      }
 
-            width: 4rem;
+      .card-whwd > h4 {
+        text-align: center;
+      }
 
+      #why::before {
+        content: "";
+        background-color: #fff;
+        width: 100%;
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        z-index: 1;
+      }
 
-            height: 4rem;
-        }
-
-
-        .card-whwd>h4 {
-
-
-            text-align: center;
-        }
-
-
-        #why::before {
-
-            content: "";
-            background-color: #fff;
-            width: 100%;
-            position: absolute;
-            top: 0%;
-            left: 0%;
-            z-index: 1;
-        }
-
-        main {
-            overflow-x: hidden;
-        }
+      main {
+        overflow-x: hidden;
+      }
     </style>
-</head>
+  </head>
 
-<body>
-
-
-
-
-
-
-
+  <body>
     <header>
+      <nav
+        class="navbar navbar-expand-lg navbar-light bg-secondary fixed-top shadow pl-5"
+      >
+        <a class="navbar-brand" href="#">ALYA AGENCY</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+          <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item active">
+              <a class="nav-link" href="#home"
+                >Home <span class="sr-only">(current)</span></a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#why">Why Choose Us</a>
+            </li>
 
-
-
-
-        <nav class="navbar navbar-expand-lg navbar-light bg-secondary fixed-top shadow pl-5">
-            <a class="navbar-brand" href="#">ALYA AGENCY</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
-                aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#why">Why Choose Us</a>
-                    </li>
-
-                    <li class="nav-item">
-                        <a class="nav-link" href="#job">Current Job List</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#faq">FAQs</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact Us</a>
-                    </li>
-
-                </ul>
-
-            </div>
-        </nav>
+            <li class="nav-item">
+              <a class="nav-link" href="#job">Current Job List</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#faq">FAQs</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contact">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
     </header>
 
+    <main class="mt-5">
+      <div class="container">
+        <section class="row mt-5 pt-5 pl-3 mr-3" id="#home">
+          <div class="col-md-12 col-lg-7 position-relative mt-5">
+            <img src="assets/icons/Path 10285.svg" alt="" />
+            <h1 class="display-2">ALYA AGENCIES</h1>
+            <h2 class="display-3 pt-3 font-weight-400">
+              You are one step closer to find the Job of your dreams
+            </h2>
+            <h4 class="display-4 text-muted pt-2 font-weight-300">
+              We are a recruitment agency and we will connect you to more than a
+              hundred companies and help you land that job you wanted
+            </h4>
+            <a
+              href=""
+              class="btn btn-primary btn-large btn-block w-75 mt-5 py-4"
+              >Check Our Job Listing</a
+            >
+          </div>
+          <div class="col-md-12 col-lg-5">
+            <img
+              src="assets/icons/Group 2035.jpg"
+              alt=""
+              srcset=""
+              style="width: 35.9rem;"
+              class="mt--7"
+            />
+          </div>
+        </section>
+      </div>
 
-    <main class="  mt-5">
-        <div class="container">
-            <section class="row mt-5 pt-5  pl-3 mr-3" id="#home">
+      <div class="container-fluid pb-5 mb-5">
+        <section class="row position-relative bg-white px-5" id="#why">
+          <h2 class="display-3 px-5 mx-5 mt-5 pt-5">Why Choose Us?</h2>
+          <h4 class="h4 mx-5 px-5 mb-5 font-weight-400 pt-3">
+            As a recruitment agency, we believe that you can access the right
+            employment opportunity. Our passion is to open up employment
+            prospects for job seekers. With our focus in the Middle East, we
+            have set out to find employment for our clients in all sectors. We
+            have developed infrastructure and capacity to look for opportunities
+            on behalf of our job seekers.
+          </h4>
 
+          <article class="row mt-5 mx-5">
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <img
+                  src="assets/icons/Award.svg"
+                  alt=""
+                  class="card-whwd mx-auto"
+                />
+                <h4 class="h4 text-center">A well proven track</h4>
+                <p class="text-muted">
+                  We have connected more than 100 to different jobs
+                </p>
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <img
+                  src="assets/icons/Award.svg"
+                  alt=""
+                  class="card-whwd mx-auto"
+                />
+                <h4 class="h4 text-center">A well proven track</h4>
+                <p class="text-muted">
+                  We have connected more than 100 to different jobs
+                </p>
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <img
+                  src="assets/icons/Award.svg"
+                  alt=""
+                  class="card-whwd mx-auto"
+                />
+                <h4 class="h4 text-center">A well proven track</h4>
+                <p class="text-muted">
+                  We have connected more than 100 to different jobs
+                </p>
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <img
+                  src="assets/icons/Award.svg"
+                  alt=""
+                  class="card-whwd mx-auto"
+                />
+                <h4 class="h4 text-center">A well proven track</h4>
+                <p class="text-muted">
+                  We have connected more than 100 to different jobs
+                </p>
+              </div>
+            </div>
+          </article>
+        </section>
+      </div>
 
+      <div class="container">
+        <section class="row" id="#job">
+          <h2 class="display-3 mt-5 pt-5">Current Job List</h2>
 
-                <div class="  col-md-12 col-lg-7 position-relative mt-5">
-                    <img src="assets/icons/Path 10285.svg" alt="">
-                    <h1 class="display-2">ALYA AGENCIES</h1>
-                    <h2 class="display-3 pt-3 font-weight-400">You are one step closer to find
-                        the Job of your dreams</h2>
-                    <h4 class="display-4 text-muted pt-2 font-weight-300 ">We are a recruitment agency and we will
-                        connect
-                        you to more
-                        than a
-                        hundred
-                        companies and help you land that job you wanted </h4>
-                    <a href="" class="btn btn-primary btn-large btn-block w-75 mt-5 py-4">Check Our Job Listing</a>
+          <article class="row mt-5">
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <div class="badge badge-sm badge-primary w-25">
+                  <span>QATAR</span>
                 </div>
-                <div class="col-md-12 col-lg-5 "><img src="assets/icons/Group 2035.jpg" alt="" srcset=""
-                        style="width: 35.9rem;" class="mt--7"></div>
-
-
-            </section>
-        </div>
-
-
-        <div class="container-fluid pb-5 mb-5">
-            <section class="row position-relative bg-white px-5 " id="#why">
-
-
-                <h2 class="display-3  px-5 mx-5 mt-5 pt-5">Why Choose Us?</h2>
-                <h4 class="h4 mx-5 px-5 mb-5 font-weight-400 pt-3">As a recruitment agency, we believe that you can
-                    access
-                    the
-                    right employment
-                    opportunity. Our
-                    passion is
-                    to open up employment prospects for job seekers. With our focus in the Middle East, we have set out
-                    to
-                    find
-                    employment for our clients in all sectors. We have developed infrastructure and capacity to look for
-                    opportunities
-                    on behalf of our job seekers.</h4>
-
-
-
-                <article class="row  mt-5 mx-5">
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <img src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto">
-                            <h4 class="h4 text-center">A well proven track
-                            </h4>
-                            <p class="text-muted">We have connected more than
-                                100 to different jobs
-                            </p>
-                        </div>
-
-                    </div>
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <img src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto">
-                            <h4 class="h4 text-center">A well proven track
-                            </h4>
-                            <p class="text-muted">We have connected more than
-                                100 to different jobs
-                            </p>
-                        </div>
-
-                    </div>
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <img src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto">
-                            <h4 class="h4 text-center">A well proven track
-                            </h4>
-                            <p class="text-muted">We have connected more than
-                                100 to different jobs
-                            </p>
-                        </div>
-
-                    </div>
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <img src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto">
-                            <h4 class="h4 text-center">A well proven track
-                            </h4>
-                            <p class="text-muted">We have connected more than
-                                100 to different jobs
-                            </p>
-                        </div>
-
-                    </div>
-
-
-                </article>
-
-            </section>
-        </div>
-
-
-
-
-        <div class="container">
-            <section class="row " id="#job">
-
-
-                <h2 class="display-3  mt-5 pt-5"> Current Job List</h2>
-
-                <article class="row  mt-5">
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <div class="badge badge-sm badge-primary w-25"><span>QATAR</span></div>
-                            <h5 class="h6 text-muted ">Job Title
-                            </h5>
-                            <div class=" d-flex flex-row justify-content-between align-items-end mt--5">
-
-                                <h4 class="font-weight-500 ">Security
-                                </h4>
-                                <h4 class="font-weight-500 ">1,300QR
-                                </h4>
-                            </div>
-
-                            <h5 class="h5 text-muted py-2 mt--3 ">Requirements
-                            </h5>
-                            <p class="">Must have a valid passport
-                            </p>
-                            <p class="">Curriculum Vitae (CV)
-                            </p>
-                            <p class="">Full photo & Small photo
-                            </p>
-                            <p class="">Full Medical
-                            </p>
-
-                            <button class="btn btn-primary btn-block">Apply Now</button>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <div class="badge badge-sm badge-primary w-25"><span>QATAR</span></div>
-                            <h5 class="h6 text-muted ">Job Title
-                            </h5>
-                            <div class=" d-flex flex-row justify-content-between align-items-end mt--5">
-
-                                <h4 class="font-weight-500 ">Security
-                                </h4>
-                                <h4 class="font-weight-500 ">1,300QR
-                                </h4>
-                            </div>
-
-                            <h5 class="h5 text-muted py-2 mt--3 ">Requirements
-                            </h5>
-                            <p class="">Must have a valid passport
-                            </p>
-                            <p class="">Curriculum Vitae (CV)
-                            </p>
-                            <p class="">Full photo & Small photo
-                            </p>
-                            <p class="">Full Medical
-                            </p>
-
-                            <button class="btn btn-primary btn-block">Apply Now</button>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <div class="badge badge-sm badge-primary w-25"><span>QATAR</span></div>
-                            <h5 class="h6 text-muted ">Job Title
-                            </h5>
-                            <div class=" d-flex flex-row justify-content-between align-items-end mt--5">
-
-                                <h4 class="font-weight-500 ">Security
-                                </h4>
-                                <h4 class="font-weight-500 ">1,300QR
-                                </h4>
-                            </div>
-
-                            <h5 class="h5 text-muted py-2 mt--3 ">Requirements
-                            </h5>
-                            <p class="">Must have a valid passport
-                            </p>
-                            <p class="">Curriculum Vitae (CV)
-                            </p>
-                            <p class="">Full photo & Small photo
-                            </p>
-                            <p class="">Full Medical
-                            </p>
-
-                            <button class="btn btn-primary btn-block">Apply Now</button>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <div class="badge badge-sm badge-primary w-25"><span>QATAR</span></div>
-                            <h5 class="h6 text-muted ">Job Title
-                            </h5>
-                            <div class=" d-flex flex-row justify-content-between align-items-end mt--5">
-
-                                <h4 class="font-weight-500 ">Security
-                                </h4>
-                                <h4 class="font-weight-500 ">1,300QR
-                                </h4>
-                            </div>
-
-                            <h5 class="h5 text-muted py-2 mt--3 ">Requirements
-                            </h5>
-                            <p class="">Must have a valid passport
-                            </p>
-                            <p class="">Curriculum Vitae (CV)
-                            </p>
-                            <p class="">Full photo & Small photo
-                            </p>
-                            <p class="">Full Medical
-                            </p>
-
-                            <button class="btn btn-primary btn-block">Apply Now</button>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <div class="badge badge-sm badge-primary w-25"><span>QATAR</span></div>
-                            <h5 class="h6 text-muted ">Job Title
-                            </h5>
-                            <div class=" d-flex flex-row justify-content-between align-items-end mt--5">
-
-                                <h4 class="font-weight-500 ">Security
-                                </h4>
-                                <h4 class="font-weight-500 ">1,300QR
-                                </h4>
-                            </div>
-
-                            <h5 class="h5 text-muted py-2 mt--3 ">Requirements
-                            </h5>
-                            <p class="">Must have a valid passport
-                            </p>
-                            <p class="">Curriculum Vitae (CV)
-                            </p>
-                            <p class="">Full photo & Small photo
-                            </p>
-                            <p class="">Full Medical
-                            </p>
-
-                            <button class="btn btn-primary btn-block">Apply Now</button>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <div class="badge badge-sm badge-primary w-25"><span>QATAR</span></div>
-                            <h5 class="h6 text-muted ">Job Title
-                            </h5>
-                            <div class=" d-flex flex-row justify-content-between align-items-end mt--5">
-
-                                <h4 class="font-weight-500 ">Security
-                                </h4>
-                                <h4 class="font-weight-500 ">1,300QR
-                                </h4>
-                            </div>
-
-                            <h5 class="h5 text-muted py-2 mt--3 ">Requirements
-                            </h5>
-                            <p class="">Must have a valid passport
-                            </p>
-                            <p class="">Curriculum Vitae (CV)
-                            </p>
-                            <p class="">Full photo & Small photo
-                            </p>
-                            <p class="">Full Medical
-                            </p>
-
-                            <button class="btn btn-primary btn-block">Apply Now</button>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <div class="badge badge-sm badge-primary w-25"><span>QATAR</span></div>
-                            <h5 class="h6 text-muted ">Job Title
-                            </h5>
-                            <div class=" d-flex flex-row justify-content-between align-items-end mt--5">
-
-                                <h4 class="font-weight-500 ">Security
-                                </h4>
-                                <h4 class="font-weight-500 ">1,300QR
-                                </h4>
-                            </div>
-
-                            <h5 class="h5 text-muted py-2 mt--3 ">Requirements
-                            </h5>
-                            <p class="">Must have a valid passport
-                            </p>
-                            <p class="">Curriculum Vitae (CV)
-                            </p>
-                            <p class="">Full photo & Small photo
-                            </p>
-                            <p class="">Full Medical
-                            </p>
-
-                            <button class="btn btn-primary btn-block">Apply Now</button>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-3">
-
-
-                        <div class="card  p-4 ">
-                            <div class="badge badge-sm badge-primary w-25"><span>QATAR</span></div>
-                            <h5 class="h6 text-muted ">Job Title
-                            </h5>
-                            <div class=" d-flex flex-row justify-content-between align-items-end mt--5">
-
-                                <h4 class="font-weight-500 ">Security
-                                </h4>
-                                <h4 class="font-weight-500 ">1,300QR
-                                </h4>
-                            </div>
-
-                            <h5 class="h5 text-muted py-2 mt--3 ">Requirements
-                            </h5>
-                            <p class="">Must have a valid passport
-                            </p>
-                            <p class="">Curriculum Vitae (CV)
-                            </p>
-                            <p class="">Full photo & Small photo
-                            </p>
-                            <p class="">Full Medical
-                            </p>
-
-                            <button class="btn btn-primary btn-block">Apply Now</button>
-                        </div>
-
-                    </div>
-
-
-                </article>
-
-            </section>
-        </div>
-
-
-
-
-
-        <div class="container-fluid bg-white">
-            <h2 class="display-3  text-center">Frequently Asked Questions</h2>
-            <h4 class="h4 mx-5 px-5 mb-5 font-weight-400 pt-3">We are here for you, feel free to pay us a visit
-                anytime</h4>
-
-            <section class="row position-relative " id="#faq">
-
-
-
-
-
-                <article class="row  mt-5">
-                    <div class="col-md-12 col-lg-6">
-
-
-                        <div class="media">
-                            <img class="mr-3" src="assets/icons/Group 2037.svg" alt="Generic placeholder image">
-                            <div class="media-body">
-                                <h5 class="mt-0">How do I get Started</h5>
-                                Pay us a visit or call us ,you can find our contacts below
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-
-
-                        <div class="media">
-                            <img class="mr-3" src="assets/icons/Group 2037.svg" alt="Generic placeholder image">
-                            <div class="media-body">
-                                <h5 class="mt-0">How do I get Started</h5>
-                                Pay us a visit or call us ,you can find our contacts below
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-6">
-
-
-                        <div class="media">
-                            <img class="mr-3" src="assets/icons/Group 2037.svg" alt="Generic placeholder image">
-                            <div class="media-body">
-                                <h5 class="mt-0">How do I get Started</h5>
-                                Pay us a visit or call us ,you can find our contacts below
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-
-
-                        <div class="media">
-                            <img class="mr-3" src="assets/icons/Group 2037.svg" alt="Generic placeholder image">
-                            <div class="media-body">
-                                <h5 class="mt-0">How do I get Started</h5>
-                                Pay us a visit or call us ,you can find our contacts below
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="col-md-12 col-lg-6">
-
-
-                        <div class="media">
-                            <img class="mr-3" src="assets/icons/Group 2037.svg" alt="Generic placeholder image">
-                            <div class="media-body">
-                                <h5 class="mt-0">How do I get Started</h5>
-                                Pay us a visit or call us ,you can find our contacts below
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-md-12 col-lg-6">
-
-
-                        <div class="media">
-                            <img class="mr-3" src="assets/icons/Group 2037.svg" alt="Generic placeholder image">
-                            <div class="media-body">
-                                <h5 class="mt-0">How do I get Started</h5>
-                                Pay us a visit or call us ,you can find our contacts below
-                            </div>
-                        </div>
-
-                    </div>
-
-
-                </article>
-
-            </section>
-        </div>
-        <form class="container d-flex flex-column justify-content-center align-items-center">
-            <h2 class="display-3  text-center">Drop A Message</h2>
-            <div class="form-group w-50">
-                <label for="" class="text-left">Fullname</label>
-                <input type="text" placeholder="joe doe" class="form-control">
-            </div>
-            <div class="form-group w-50">
-                <label for="" class="text-left">Email</label>
-                <input type="email" placeholder="joe doe" class="form-control">
-            </div>
-            <div class="form-group w-50">
-                <label for="" class="text-left">Phone Number</label>
-                <input type="tel" placeholder="joe doe" class="form-control">
-            </div>
-            <div class="form-group w-50">
-                <label for="" class="text-left">Message</label>
-                <textarea name="message" id="message" cols="30" rows="30" class="form-control"></textarea>
+                <h5 class="h6 text-muted">Job Title</h5>
+                <div
+                  class="d-flex flex-row justify-content-between align-items-end mt--5"
+                >
+                  <h4 class="font-weight-500">Security</h4>
+                  <h4 class="font-weight-500">1,300QR</h4>
+                </div>
+
+                <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
+                <p class="">Must have a valid passport</p>
+                <p class="">Curriculum Vitae (CV)</p>
+                <p class="">Full photo & Small photo</p>
+                <p class="">Full Medical</p>
+
+                <button class="btn btn-primary btn-block">Apply Now</button>
+              </div>
             </div>
 
-            <button class="btn btn-block btn-primary w-50">Send Us a Message</button>
-        </form>
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <div class="badge badge-sm badge-primary w-25">
+                  <span>QATAR</span>
+                </div>
+                <h5 class="h6 text-muted">Job Title</h5>
+                <div
+                  class="d-flex flex-row justify-content-between align-items-end mt--5"
+                >
+                  <h4 class="font-weight-500">Security</h4>
+                  <h4 class="font-weight-500">1,300QR</h4>
+                </div>
 
+                <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
+                <p class="">Must have a valid passport</p>
+                <p class="">Curriculum Vitae (CV)</p>
+                <p class="">Full photo & Small photo</p>
+                <p class="">Full Medical</p>
+
+                <button class="btn btn-primary btn-block">Apply Now</button>
+              </div>
+            </div>
+
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <div class="badge badge-sm badge-primary w-25">
+                  <span>QATAR</span>
+                </div>
+                <h5 class="h6 text-muted">Job Title</h5>
+                <div
+                  class="d-flex flex-row justify-content-between align-items-end mt--5"
+                >
+                  <h4 class="font-weight-500">Security</h4>
+                  <h4 class="font-weight-500">1,300QR</h4>
+                </div>
+
+                <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
+                <p class="">Must have a valid passport</p>
+                <p class="">Curriculum Vitae (CV)</p>
+                <p class="">Full photo & Small photo</p>
+                <p class="">Full Medical</p>
+
+                <button class="btn btn-primary btn-block">Apply Now</button>
+              </div>
+            </div>
+
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <div class="badge badge-sm badge-primary w-25">
+                  <span>QATAR</span>
+                </div>
+                <h5 class="h6 text-muted">Job Title</h5>
+                <div
+                  class="d-flex flex-row justify-content-between align-items-end mt--5"
+                >
+                  <h4 class="font-weight-500">Security</h4>
+                  <h4 class="font-weight-500">1,300QR</h4>
+                </div>
+
+                <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
+                <p class="">Must have a valid passport</p>
+                <p class="">Curriculum Vitae (CV)</p>
+                <p class="">Full photo & Small photo</p>
+                <p class="">Full Medical</p>
+
+                <button class="btn btn-primary btn-block">Apply Now</button>
+              </div>
+            </div>
+
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <div class="badge badge-sm badge-primary w-25">
+                  <span>QATAR</span>
+                </div>
+                <h5 class="h6 text-muted">Job Title</h5>
+                <div
+                  class="d-flex flex-row justify-content-between align-items-end mt--5"
+                >
+                  <h4 class="font-weight-500">Security</h4>
+                  <h4 class="font-weight-500">1,300QR</h4>
+                </div>
+
+                <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
+                <p class="">Must have a valid passport</p>
+                <p class="">Curriculum Vitae (CV)</p>
+                <p class="">Full photo & Small photo</p>
+                <p class="">Full Medical</p>
+
+                <button class="btn btn-primary btn-block">Apply Now</button>
+              </div>
+            </div>
+
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <div class="badge badge-sm badge-primary w-25">
+                  <span>QATAR</span>
+                </div>
+                <h5 class="h6 text-muted">Job Title</h5>
+                <div
+                  class="d-flex flex-row justify-content-between align-items-end mt--5"
+                >
+                  <h4 class="font-weight-500">Security</h4>
+                  <h4 class="font-weight-500">1,300QR</h4>
+                </div>
+
+                <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
+                <p class="">Must have a valid passport</p>
+                <p class="">Curriculum Vitae (CV)</p>
+                <p class="">Full photo & Small photo</p>
+                <p class="">Full Medical</p>
+
+                <button class="btn btn-primary btn-block">Apply Now</button>
+              </div>
+            </div>
+
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <div class="badge badge-sm badge-primary w-25">
+                  <span>QATAR</span>
+                </div>
+                <h5 class="h6 text-muted">Job Title</h5>
+                <div
+                  class="d-flex flex-row justify-content-between align-items-end mt--5"
+                >
+                  <h4 class="font-weight-500">Security</h4>
+                  <h4 class="font-weight-500">1,300QR</h4>
+                </div>
+
+                <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
+                <p class="">Must have a valid passport</p>
+                <p class="">Curriculum Vitae (CV)</p>
+                <p class="">Full photo & Small photo</p>
+                <p class="">Full Medical</p>
+
+                <button class="btn btn-primary btn-block">Apply Now</button>
+              </div>
+            </div>
+
+            <div class="col-md-12 col-lg-3">
+              <div class="card p-4">
+                <div class="badge badge-sm badge-primary w-25">
+                  <span>QATAR</span>
+                </div>
+                <h5 class="h6 text-muted">Job Title</h5>
+                <div
+                  class="d-flex flex-row justify-content-between align-items-end mt--5"
+                >
+                  <h4 class="font-weight-500">Security</h4>
+                  <h4 class="font-weight-500">1,300QR</h4>
+                </div>
+
+                <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
+                <p class="">Must have a valid passport</p>
+                <p class="">Curriculum Vitae (CV)</p>
+                <p class="">Full photo & Small photo</p>
+                <p class="">Full Medical</p>
+
+                <button class="btn btn-primary btn-block">Apply Now</button>
+              </div>
+            </div>
+          </article>
+        </section>
+      </div>
+
+      <div class="bg-white container-fluid py-5 my-5">
+        <h2 class="display-3 text-center">Frequently Asked Questions</h2>
+        <h4 class="h4 mx-5 px-5 mb-5 font-weight-400 pt-3 text-center">
+          We are here for you, feel free to pay us a visit anytime
+        </h4>
+
+        <section class="row position-relative" id="#faq">
+          <article class="row mt-5 container mx-5">
+            <div class="col-md-12 col-lg-6">
+              <div class="media">
+                <img
+                  class="mr-3"
+                  src="assets/icons/Group 2037.svg"
+                  alt="Generic placeholder image"
+                />
+                <div class="media-body">
+                  <h5 class="mt-0">How do I get Started</h5>
+                  Pay us a visit or call us ,you can find our contacts below
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-6">
+              <div class="media">
+                <img
+                  class="mr-3"
+                  src="assets/icons/Group 2037.svg"
+                  alt="Generic placeholder image"
+                />
+                <div class="media-body">
+                  <h5 class="mt-0">How do I get Started</h5>
+                  Pay us a visit or call us ,you can find our contacts below
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-12 col-lg-6">
+              <div class="media">
+                <img
+                  class="mr-3"
+                  src="assets/icons/Group 2037.svg"
+                  alt="Generic placeholder image"
+                />
+                <div class="media-body">
+                  <h5 class="mt-0">How do I get Started</h5>
+                  Pay us a visit or call us ,you can find our contacts below
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-6">
+              <div class="media">
+                <img
+                  class="mr-3"
+                  src="assets/icons/Group 2037.svg"
+                  alt="Generic placeholder image"
+                />
+                <div class="media-body">
+                  <h5 class="mt-0">How do I get Started</h5>
+                  Pay us a visit or call us ,you can find our contacts below
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-12 col-lg-6">
+              <div class="media">
+                <img
+                  class="mr-3"
+                  src="assets/icons/Group 2037.svg"
+                  alt="Generic placeholder image"
+                />
+                <div class="media-body">
+                  <h5 class="mt-0">How do I get Started</h5>
+                  Pay us a visit or call us ,you can find our contacts below
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12 col-lg-6">
+              <div class="media">
+                <img
+                  class="mr-3"
+                  src="assets/icons/Group 2037.svg"
+                  alt="Generic placeholder image"
+                />
+                <div class="media-body">
+                  <h5 class="mt-0">How do I get Started</h5>
+                  Pay us a visit or call us ,you can find our contacts below
+                </div>
+              </div>
+            </div>
+          </article>
+        </section>
+      </div>
+      <form
+        class="container d-flex flex-column justify-content-center align-items-center"
+      >
+        <h2 class="display-3 text-center py-5 my-5">Drop A Message</h2>
+        <div class="form-group w-50">
+          <label for="" class="text-left">Fullname</label>
+          <input type="text" placeholder="joe doe" class="form-control" />
+        </div>
+        <div class="form-group w-50">
+          <label for="" class="text-left">Email</label>
+          <input type="email" placeholder="joe doe" class="form-control" />
+        </div>
+        <div class="form-group w-50">
+          <label for="" class="text-left">Phone Number</label>
+          <input type="tel" placeholder="joe doe" class="form-control" />
+        </div>
+        <div class="form-group w-50">
+          <label for="" class="text-left">Message</label>
+          <textarea
+            name="message"
+            id="message"
+            cols="30"
+            rows="30"
+            class="form-control"
+          ></textarea>
+        </div>
+
+        <button class="btn btn-block btn-primary w-50">
+          Send Us a Message
+        </button>
+      </form>
     </main>
 
-    <footer style="background-image: url('assets/icons/MaskGroup57.svg'); background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-height: 100vh;" class="pt-5 mt-5">
+    <footer
+      style="
+        background-image: url('assets/icons/MaskGroup57.svg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+      "
+      class="pt-5 mt-5"
+    >
+      <h5 class="text-center display-4 text-white pt-5 mt-5">
+        Portal House, along Muindi Mbingu Street.
+      </h5>
+      <h5 class="text-center display-4 text-white">
+        3rd Floor,RM 306
+      </h5>
+      <h5 class="text-center display-4 text-white">
+        Email:-info@alyaagency.co.ke
+      </h5>
+      <h5 class="text-center display-4 text-white">
+        www.alyaagency.co.ke
+      </h5>
 
-        <h5 class="text-center display-4 text-white pt-5 mt-5">
-
-            Portal House, along Muindi Mbingu Street.
-
-
-        </h5>
-        <h5 class="text-center display-4 text-white">
-
-
-            3rd Floor,RM 306
-
-        </h5>
-        <h5 class="text-center display-4 text-white"> Email:-info@alyaagency.co.ke
-        </h5>
-        <h5 class="text-center display-4 text-white">
-            www.alyaagency.co.ke</h5>
-
-        <div class="row justify-content-center w-25">
-            <div class="col"><a href=""><img src="assets/icons/Icon feather-instagram.svg" alt=""></a></div>
-            <div class="col"><a href=""><img src="assets/icons/Icon feather-facebook.svg" alt=""></a></div>
-            <div class="col"><a href=""><img src="assets/icons/Icon feather-twitter.svg" alt=""></a></div>
+      <div class="row no-gutters w-25 mx-auto px-5">
+        <div class="col">
+          <a href=""
+            ><img src="assets/icons/Icon feather-instagram.svg" alt=""
+          /></a>
         </div>
-
+        <div class="col">
+          <a href=""
+            ><img src="assets/icons/Icon feather-facebook.svg" alt=""
+          /></a>
+        </div>
+        <div class="col">
+          <a href=""
+            ><img src="assets/icons/Icon feather-twitter.svg" alt=""
+          /></a>
+        </div>
+      </div>
     </footer>
 
-
-
-
-    <script src="assets/jquery.js"></script>
-    <script src="assets/js/bootstrap.js"></script>
+    <!-- <script src="assets/jquery.min.js"></script> -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
 
     <!-- Argon JS -->
     <script src="/assets/js/argon.min.js"></script>
-</body>
-
+  </body>
 </html>
