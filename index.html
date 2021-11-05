@@ -61,7 +61,7 @@
 
 <body>
   <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-secondary fixed-top shadow pl-5">
+    <nav class="navbar navbar-expand-lg  fixed-top shadow pl-5">
       <a class="navbar-brand" href="#">ALYA AGENCY</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
         aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -107,15 +107,15 @@
           <a href="" class="btn btn-primary btn-large btn-block w-75 mt-5 py-4">Check Our Job Listing</a>
         </div>
         <div class="col-md-12 col-lg-5">
-          <img src="assets/icons/Group 2035.jpg" alt="" srcset="" style="width: 35.9rem" class="mt--7" />
+          <img src="assets/icons/Group 2035.jpg" alt="" srcset="" style="width: 35.9rem" class="mt--7 " id="heroImg" />
         </div>
       </section>
     </div>
 
     <div class="container-fluid pb-5 mb-5">
       <section class="row position-relative bg-white px-5" id="why">
-        <h2 class="display-3 px-5 mx-5 mt-5 pt-5">Why Choose Us?</h2>
-        <h4 class="h4 mx-5 px-5 mb-5 font-weight-400 pt-3">
+        <h2 class="display-3 px-lg-5 mx-lg-5 mt-5 pt-5">Why Choose Us?</h2>
+        <h4 class="h4 px-lg-5 mx-lg-5 mb-5 font-weight-400 pt-3">
           As a recruitment agency, we believe that you can access the right
           employment opportunity. Our passion is to open up employment
           prospects for job seekers. With our focus in the Middle East, we
@@ -124,7 +124,7 @@
           on behalf of our job seekers.
         </h4>
 
-        <article class="row mt-5 mx-5">
+        <article class="row mt-5 mx-lg-5">
           <div class="col-md-12 col-lg-3">
             <div class="card p-4">
               <img src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto" />
@@ -167,7 +167,7 @@
 
     <div class="container">
       <section class="row" id="job">
-        <h2 class="display-3 mt-5 pt-5">Current Job List</h2>
+        <h2 class="display-3 mt-5 pt-5 pl-lg-2">Current Job List</h2>
 
         <article class="row mt-5">
           <div class="col-md-12 col-lg-3">
@@ -457,7 +457,7 @@
     <div class="container mb-5 pb-5">
       <h2 class="display-3 mt-5 pt-5">Other Job List</h2>
       <section class="row" id="other">
-        <article class="row mt-5 w-100">
+        <article class="row mt-5 w-100 mx-auto">
           <div class="col-md-6 col-lg-2">
             <div class="card p-4">
               <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
@@ -881,7 +881,7 @@
         background-repeat: no-repeat;
         background-size: cover;
        
-      " class="pt-5 mt-5">
+      " class="py-5 mt-5">
     <h5 class="text-center display-4 text-white pt-5 mt-5">
       Portal House, along Muindi Mbingu Street.
     </h5>
@@ -933,6 +933,54 @@
           });
         } // End if
       });
+
+
+
+      $(window).resize(function () {
+        // This will execute whenever the window is resized
+        $(window).height(); // New height
+
+
+
+
+        if ($(window).width() < 768) {
+
+          $("#heroImg").addClass("img-fluid")
+
+          $("footer .row.no-gutters.mx-auto.px-5.pt-3.mt-3").addClass("w-100")
+
+          console.log($(window).width())
+        } else {
+
+          $("#heroImg").removeClass("img-fluid")
+          $("footer .row.no-gutters.mx-auto.px-5.pt-3.mt-3").addClass("w-25").removeClass("w-100")
+        }
+
+      });
+
+
+
+      $(window).scroll(function (event) {
+        var scroll = $(window).scrollTop();
+        if (scroll > 300) {
+
+          $("nav").css({
+            backgroundColor: "#5b2aee"
+          })
+          $(".nav-link").css({
+            color: "#fff"
+          })
+        } else {
+
+          $("nav").css({
+            backgroundColor: "#f8f9fe"
+          })
+          $(".nav-link").css({
+            color: "inherit"
+          })
+        }
+      });
+
     });
   </script>
 </body>
