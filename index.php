@@ -936,45 +936,36 @@
         $mail->Body    =  $message . " Here is my mobile phone ,contact me when you get this " . $phone;
         if ($mail->Send()) {
           $valid["message"] = "We will get back to you as soon as possible";
-          echo  '<div class="container mt-9"><div class="card ">
+          echo  '<div class="container mt-9"><div class="card shadow-none ">
             <div class="card-body">
                 <div class="alert alert-success">' .
             '<button type="button" class="close" data-dismiss="alert">&times;</button>' .
             '<strong><i class="ni ni-like-2"></i></strong> ' . $valid["message"] .
             '</div>
-                <div class="d-flex  mt-5">
-                <a href="contact" class="btn btn-primary ">Contact Us</a>
-                <a href="dashboard" class="btn btn-transparent ">Home</a>
-              </div>       
+                     
             </div>
           </div>
         </div>';
         } else {
-          echo  '<div class="container mt-9"><div class="card ">
+          echo  '<div class="container mt-9"><div class="card shadow-none">
             <div class="card-body">
                 <div class="alert alert-success">' .
             '<button type="button" class="close" data-dismiss="alert">&times;</button>' .
             '<strong><i class="ni ni-like-2"></i></strong> ' . $valid["message"] .
             '</div>
-                <div class="d-flex  mt-5">
-                <a href="contact" class="btn btn-primary ">Contact Us</a>
-                <a href="dashboard" class="btn btn-transparent ">Home</a>
-              </div>       
+                       
             </div>
           </div>
         </div>';
         }
       } else {
-        echo '<div class="container mt-9"><div class="card ">
+        echo '<div class="container mt-9"><div class="card shadow-none ">
             <div class="card-body">
                 <div class="alert alert-success">' .
           '<button type="button" class="close" data-dismiss="alert">&times;</button>' .
           '<strong><i class="ni ni-like-2"></i></strong> ' . $valid["message"] .
           '</div>
-                <div class="d-flex  mt-5">
-                <a href="contact" class="btn btn-primary ">Contact Us</a>
-                <a href="dashboard" class="btn btn-transparent ">Home</a>
-              </div>       
+                   
             </div>
           </div>
         </div>';
