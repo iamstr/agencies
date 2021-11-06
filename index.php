@@ -935,7 +935,7 @@
         $mail->IsHTML(true);
         $mail->Body    =  $message . " Here is my mobile phone ,contact me when you get this " . $phone;
         if ($mail->Send()) {
-          $valid["message"] = "We will get back to you as soon as possible";
+          $valid["message"] = "We got your message we will get back to you as soon as possible";
           echo  '<div class="container mt-9"><div class="card shadow-none ">
             <div class="card-body">
                 <div class="alert alert-success">' .
@@ -947,6 +947,7 @@
           </div>
         </div>';
         } else {
+          $valid["message"] = " something happened ";
           echo  '<div class="container mt-9"><div class="card shadow-none">
             <div class="card-body">
                 <div class="alert alert-success">' .
