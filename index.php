@@ -905,7 +905,7 @@
 
 
 
-      if ($emailId) {
+      if (isset($emailId)) {
 
 
 
