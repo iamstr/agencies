@@ -8,10 +8,8 @@
   <meta http-equiv="Cache-control" content="private,max-age:86400">
 
   <meta name="title" content="alya agency " />
-  <meta name="description"
-    content="Edaji is a system developed to help recruitment agencies to save time, streamline their workflow and provide consistency" />
-  <meta name="keywords"
-    content="recruitment agencies system for kenyan agencies,streamline your workflow,save your data free ,saudia,qatar" />
+  <meta name="description" content="Edaji is a system developed to help recruitment agencies to save time, streamline their workflow and provide consistency" />
+  <meta name="keywords" content="recruitment agencies system for kenyan agencies,streamline your workflow,save your data free ,saudia,qatar" />
   <meta name="robots" content="index" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="language" content="English" />
@@ -20,16 +18,30 @@
   <title>Alya Agency</title>
   <!-- Favicon -->
 
-  <link href="/assets/img/brand/favicon.png" rel="icon" type="image/png" />
-
+  <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/logo/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/logo/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/logo/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/logo/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="assets/logo/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/logo/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="assets/logo/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/logo/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/logo/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/logo/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="assets/logo/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/logo/favicon-16x16.png">
+  <link rel="manifest" href="assets/logo/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#5b2aee">
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet preconnect" />
 
 
   <!-- Argon CSS -->
   <link type="text/css" href="assets/css/argon.css" rel="stylesheet preconnect" />
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
-    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   <style>
     .card-whwd {
       width: 4rem;
@@ -58,19 +70,25 @@
     html {
       scroll-behavior: smooth;
     }
+
+    .navbar-toggler {
+
+      border: 1px solid #ffffffde;
+      border-radius: 0.25rem;
+      background-color: transparent;
+      background-color: #fff;
+      color: #5b2aee;
+    }
   </style>
 </head>
 
 <body>
   <header>
     <nav class="navbar navbar-expand-lg  fixed-top shadow pl-5">
-      <a class="navbar-brand" href="#">ALYA AGENCY</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
-        aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-            fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
-            <path fill-rule="evenodd"
-              d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+      <a class="navbar-brand" href="#home"><img loading="lazy" src="assets/logo/ALYA-LOGO.png" alt="ALYA AGENCY" width="30" height="30"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
           </svg></span>
       </button>
 
@@ -102,7 +120,7 @@
       <section class="row mt-5 pt-5 pl-3 mr-3" id="home">
         <div class="col-md-12 col-lg-7 position-relative mt-5">
           <img loading="lazy" src="assets/icons/Path 10285.svg" alt="" />
-          <h1 class="display-2">ALYA AGENCIES</h1>
+          <h1 class="display-2">ALYA AGENCY</h1>
           <h2 class="display-3 pt-3 font-weight-400">
             You are one step closer to find the Job of your dreams
           </h2>
@@ -110,11 +128,10 @@
             We are a recruitment agency and we will connect you to more than a
             hundred companies and help you land that job you wanted
           </h4>
-          <a href="" class="btn btn-primary btn-large btn-block w-75 mt-5 py-4">Check Our Job Listing</a>
+          <a href="#job" class="btn btn-primary btn-large btn-block w-75 mt-5 py-4">Check Our Job Listing</a>
         </div>
         <div class="col-md-12 col-lg-5">
-          <img loading="lazy" src="assets/icons/Group 2035.jpg" alt="" srcset="" style="width: 35.9rem" class="mt--7 "
-            id="heroImg" />
+          <img loading="lazy" src="assets/icons/Group 2035.jpg" alt="" srcset="" style="width: 35.9rem" class="mt--7 " id="heroImg" />
         </div>
       </section>
     </div>
@@ -137,31 +154,31 @@
               <img loading="lazy" src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto" />
               <h4 class="h4 text-center">A well proven track</h4>
               <p class="text-muted">
-                We have connected more than 100 to different jobs
+                We have helped over 1000 applicants get their dream jobs
               </p>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
             <div class="card p-4">
-              <img loading="lazy" src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto" />
-              <h4 class="h4 text-center">A well proven track</h4>
+              <img loading="lazy" src="assets/icons/Growth.svg" alt="" class="card-whwd mx-auto" />
+              <h4 class="h4 text-center">Further Your Career</h4>
               <p class="text-muted">
-                We have connected more than 100 to different jobs
+                Grow more by working for top companies
               </p>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
             <div class="card p-4">
-              <img loading="lazy" src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto" />
-              <h4 class="h4 text-center">A well proven track</h4>
+              <img loading="lazy" src="assets/icons/List.svg" alt="" class="card-whwd mx-auto" />
+              <h4 class="h4 text-center">A Variety Of Job Listings</h4>
               <p class="text-muted">
-                We have connected more than 100 to different jobs
+                We have more than a hundred job listing you can chose from Medium-sized and Large enterprises
               </p>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
             <div class="card p-4">
-              <img loading="lazy" src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto" />
+              <img loading="lazy" src="assets/icons/Space.svg" alt="" class="card-whwd mx-auto" />
               <h4 class="h4 text-center">A well proven track</h4>
               <p class="text-muted">
                 We have connected more than 100 to different jobs
@@ -857,23 +874,132 @@
         </article>
       </section>
     </div>
-    <form class="container d-flex flex-column justify-content-center align-items-center" id="contact">
+    <?php
+
+    use PHPMailer\PHPMailer\PHPMailer;
+    use PHPMailer\PHPMailer\SMTP;
+    use PHPMailer\PHPMailer\Exception;
+
+
+    require_once "config.php";
+    require_once 'vendor/autoload.php';
+
+    $valid["message"] = "something went wrong ";
+    if (isset($_POST['password-reset-token']) && $_POST['email']) {
+
+
+
+
+      //Load Composer's autoloader
+
+
+      //Create an instance; passing `true` enables exceptions
+      $mail = new PHPMailer(true);
+
+
+      $emailId = $_POST['email'];
+      $message = $_POST['message'];
+      $name = $_POST['name'];
+      $phone = $_POST['phone'];
+      // $emailId = $_POST['email'];
+
+
+
+      if ($emailId) {
+
+
+
+
+
+        $mail = new PHPMailer();
+
+        $mail->CharSet =  "utf-8";
+        //    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
+
+        $mail->IsSMTP();
+        // enable SMTP authentication
+        $mail->SMTPAuth = true;
+        // GMAIL username
+        $mail->Username = $mailconfig["username"];
+        // GMAIL password
+        $mail->Password = $mailconfig["password"];
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        // sets GMAIL as the SMTP server
+        $mail->Host = $mailconfig["host"];
+        // set the SMTP port for the GMAIL server
+        $mail->Port = $mailconfig["port"];
+        $mail->From = $mailconfig["from"];
+        $mail->FromName = $name;
+        $mail->AddAddress($emailId, $name);
+        $mail->Subject  =  'Job Application';
+        $mail->IsHTML(true);
+        $mail->Body    =  $message . " Here is my mobile phone ,contact me when you get this " . $phone;
+        if ($mail->Send()) {
+          $valid["message"] = "We will get back to you as soon as possible";
+          echo  '<div class="container mt-9"><div class="card ">
+            <div class="card-body">
+                <div class="alert alert-success">' .
+            '<button type="button" class="close" data-dismiss="alert">&times;</button>' .
+            '<strong><i class="ni ni-like-2"></i></strong> ' . $valid["message"] .
+            '</div>
+                <div class="d-flex  mt-5">
+                <a href="contact" class="btn btn-primary ">Contact Us</a>
+                <a href="dashboard" class="btn btn-transparent ">Home</a>
+              </div>       
+            </div>
+          </div>
+        </div>';
+        } else {
+          echo  '<div class="container mt-9"><div class="card ">
+            <div class="card-body">
+                <div class="alert alert-success">' .
+            '<button type="button" class="close" data-dismiss="alert">&times;</button>' .
+            '<strong><i class="ni ni-like-2"></i></strong> ' . $valid["message"] .
+            '</div>
+                <div class="d-flex  mt-5">
+                <a href="contact" class="btn btn-primary ">Contact Us</a>
+                <a href="dashboard" class="btn btn-transparent ">Home</a>
+              </div>       
+            </div>
+          </div>
+        </div>';
+        }
+      } else {
+        echo '<div class="container mt-9"><div class="card ">
+            <div class="card-body">
+                <div class="alert alert-success">' .
+          '<button type="button" class="close" data-dismiss="alert">&times;</button>' .
+          '<strong><i class="ni ni-like-2"></i></strong> ' . $valid["message"] .
+          '</div>
+                <div class="d-flex  mt-5">
+                <a href="contact" class="btn btn-primary ">Contact Us</a>
+                <a href="dashboard" class="btn btn-transparent ">Home</a>
+              </div>       
+            </div>
+          </div>
+        </div>';
+      }
+    }
+
+
+    ?>
+    <form class="container d-flex flex-column justify-content-center align-items-center" id="contact" method="post" action="<?php echo htmlspecialchars($_SERVER[‘PHP_SELF’]); ?>">
       <h2 class="display-3 text-center py-5 my-5">Drop A Message</h2>
       <div class="form-group w-50">
         <label for="" class="text-left">Fullname</label>
-        <input type="text" placeholder="joe doe" class="form-control" />
+        <input type="text" placeholder="joe doe" class="form-control" name="name" />
       </div>
       <div class="form-group w-50">
         <label for="" class="text-left">Email</label>
-        <input type="email" placeholder="joe doe" class="form-control" />
+        <input type="email" placeholder="joedoe@gmail.com" class="form-control" name="email" />
       </div>
       <div class="form-group w-50">
         <label for="" class="text-left">Phone Number</label>
-        <input type="tel" placeholder="joe doe" class="form-control" />
+        <input type="tel" placeholder="123456789" class="form-control" name="phone" />
       </div>
       <div class="form-group w-50">
         <label for="" class="text-left">Message</label>
-        <textarea name="message" id="message" cols="30" rows="30" class="form-control"></textarea>
+        <textarea name="message" id="message" cols="30" rows="30" class="form-control" placeholder="i am contacting you over this job" name="message"></textarea>
       </div>
 
       <button class="btn btn-block btn-primary w-50">
@@ -917,9 +1043,9 @@
   <!-- Argon JS -->
   <script src="/assets/js/argon.min.js"></script>
   <script>
-    $(document).ready(function () {
+    $(document).ready(function() {
       // Add smooth scrolling to all links with the class scroll
-      $("a.scroll").on('click', function (event) {
+      $("a.scroll").on('click', function(event) {
 
         // Make sure this.hash has a value before overriding default behavior
         if (this.hash !== "") {
@@ -933,7 +1059,7 @@
           // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
           $('html, body').animate({
             scrollTop: $(hash).offset().top
-          }, 800, function () {
+          }, 800, function() {
 
             // Add hash (#) to URL when done scrolling (default click behavior)
             window.location.hash = hash;
@@ -943,7 +1069,7 @@
 
 
 
-      $(window).resize(function () {
+      $(window).resize(function() {
         // This will execute whenever the window is resized
         $(window).height(); // New height
 
@@ -953,6 +1079,8 @@
         if ($(window).width() < 768) {
 
           $("#heroImg").addClass("img-fluid")
+          $("#job").addClass("mx-auto")
+          $("#job h2.display-3").addClass("text-center")
 
           $("footer .row.no-gutters.mx-auto.px-5.pt-3.mt-3").addClass("w-100")
 
@@ -961,13 +1089,15 @@
 
           $("#heroImg").removeClass("img-fluid")
           $("footer .row.no-gutters.mx-auto.px-5.pt-3.mt-3").addClass("w-25").removeClass("w-100")
+          $("#job").removeClass("mx-auto")
+          $("#job h2.display-3").removeClass("text-center")
         }
 
       });
 
 
 
-      $(window).scroll(function (event) {
+      $(window).scroll(function(event) {
         var scroll = $(window).scrollTop();
         if (scroll > 300) {
 
