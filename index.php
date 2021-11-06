@@ -930,7 +930,8 @@
         $mail->Port = $mailconfig["port"];
         $mail->From = $emailId;
         $mail->FromName = $name;
-        $mail->AddAddress($emailId, $name);
+        $mail->AddAddress($mailconfig["username"], $name);
+
         $mail->Subject  =  'Job Application';
         $mail->IsHTML(true);
         $mail->Body    =  $message . " Here is my mobile phone ,contact me when you get this " . $phone;
