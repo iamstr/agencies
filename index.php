@@ -885,7 +885,7 @@
     require_once 'vendor/autoload.php';
 
     $valid["message"] = "something went wrong ";
-    if (isset($_POST['password-reset-token']) && $_POST['email']) {
+    if ($_POST['email']) {
 
 
 
