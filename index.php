@@ -983,7 +983,7 @@
 
 
     ?>
-    <form class="container d-flex flex-column justify-content-center align-items-center" id="contact" method="post" action="<?php echo htmlspecialchars($_SERVER[‘PHP_SELF’]); ?>">
+    <form class="container d-flex flex-column justify-content-center align-items-center" id="contact" method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>">
       <h2 class="display-3 text-center py-5 my-5">Drop A Message</h2>
       <div class="form-group w-50">
         <label for="" class="text-left">Fullname</label>
