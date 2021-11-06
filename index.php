@@ -928,7 +928,7 @@
         $mail->Host = $mailconfig["host"];
         // set the SMTP port for the GMAIL server
         $mail->Port = $mailconfig["port"];
-        $mail->From = $mailconfig["from"];
+        $mail->From = $emailId;
         $mail->FromName = $name;
         $mail->AddAddress($emailId, $name);
         $mail->Subject  =  'Job Application';
