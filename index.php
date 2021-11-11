@@ -1020,10 +1020,12 @@ a recruitment agency," />
     </h5>
     <h5 class="text-center display-4 text-white pt-2 mt-2">3rd Floor,RM 306</h5>
     <h5 class="text-center display-4 text-white pt-3 mt-3">
-      Email:- info@alyaagency.co.ke/mariammaria054@gmail.com
+      Email:- info@alyaagency.co.ke
+            - mariammaria054@gmail.com
     </h5>
      <h5 class="text-center display-4 text-white pt-3 mt-3">
-      Tel:- +254799130089/+254740178190
+      Tel:- +254799130089
+          - +254740178190
     </h5>
     <h5 class="text-center display-4 text-white">www.alyaagency.co.ke</h5>
 
