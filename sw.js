@@ -1,14 +1,12 @@
 let cacheName = "my-first-pwa";
 let filesToCache = [ 
           
-                    "assets/css/argon.css?v=1.40",
-                    "assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js",
-"assets/vendor/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js",
-"assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js",
-"assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js",
-"assets/vendor/js-cookie/js.cookie.js",
-"assets/js/argon.js?v=1.2.2",
-"assets/vendor/jquery/dist/jquery.min.js"];
+                    "assets/css/argon.min.css",
+                    "assets/js/bootstrap.bundle.min.js",
+                     "assets/js/argon.min.js",
+                     "https://code.jquery.com/jquery-3.6.0.min.js",
+          "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"
+];
 
 /* Start the service worker and cache all of the app's content */
 self.addEventListener("install", (e) => {
