@@ -1046,7 +1046,24 @@ a recruitment agency," />
   <!-- Argon JS -->
   <script src="/assets/js/argon.min.js" async></script>
   <script>
+    
+    
+    if ("serviceWorker" in navigator) {
+  navigator.serviceWorker
+    .register("/sw.js")
+    .then(serviceWorker => {
+      console.log("Service Worker registered: ", serviceWorker);
+    })
+    .catch(error => {
+      console.error("Error registering the Service Worker: ", error);
+    });
+}
+    
     $(document).ready(function() {
+      
+      
+      
+      
       // Add smooth scrolling to all links with the class scroll
       $("a.scroll").on('click', function(event) {
 
