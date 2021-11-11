@@ -8,8 +8,15 @@
   <meta http-equiv="Cache-control" content="private,max-age:86400">
 
   <meta name="title" content="alya agency " />
-  <meta name="description" content="Edaji is a system developed to help recruitment agencies to save time, streamline their workflow and provide consistency" />
-  <meta name="keywords" content="recruitment agencies system for kenyan agencies,streamline your workflow,save your data free ,saudia,qatar" />
+  <meta name="description" content="alya agency is  recruitment agencies that helps job seekers find jobs in the gufl countries" />
+  <meta name="keywords" content="recruitment agencies in kenya,jobs in qatar,jobs in dubai,jobs,in uae,kenya best recruitment agency
+recruitment process,
+recruitment agencies,
+recruitment agencies nairobi,
+recruitment agency,
+recruitment agencies in qatar,
+recruitment agencies in kenya for qatar,
+a recruitment agency," />
   <meta name="robots" content="index" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="language" content="English" />
@@ -40,7 +47,7 @@
 
 
   <!-- Argon CSS -->
-  <link type="text/css" href="assets/css/argon.css" rel="stylesheet preconnect" />
+  <link type="text/css" href="assets/css/argon.min.css" rel="stylesheet preconnect" />
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   <style>
     .card-whwd {
