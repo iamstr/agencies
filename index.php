@@ -48,7 +48,7 @@ a recruitment agency," />
 
   <!-- Argon CSS -->
   <link type="text/css" href="assets/css/argon-purified-min.css" rel="stylesheet" />
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" async ></script>
   <style>
     .card-whwd {
       width: 4rem;
@@ -1041,10 +1041,10 @@ a recruitment agency," />
   </footer>
 
   <!-- <script src="assets/jquery.min.js"></script> -->
-  <script src="assets/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/bootstrap.bundle.min.js" async></script>
 
   <!-- Argon JS -->
-  <script src="/assets/js/argon.min.js"></script>
+  <script src="/assets/js/argon.min.js" async></script>
   <script>
     $(document).ready(function() {
       // Add smooth scrolling to all links with the class scroll
