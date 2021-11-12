@@ -1,0 +1,86 @@
+.card-whwd {
+  width: 4rem;
+
+  height: 4rem;
+}
+
+.card-whwd > h4 {
+  text-align: center;
+}
+
+main {
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar-toggler {
+  border: 1px solid #ffffffde;
+  border-radius: 0.25rem;
+  background-color: transparent;
+  background-color: #fff;
+  color: #5b2aee;
+}
+#why {
+  background-color: #fff;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100%;
+}
+
+.tinted-image {
+  background:
+        /* top, transparent red, faked with gradient */ linear-gradient(
+      rgba(255, 0, 0, 0.45),
+      rgba(255, 0, 0, 0.45)
+    ),
+    /* bottom, image */ url("../img/image-background.jpg");
+  height: 50rem;
+  background-blend-mode: luminosity;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  background-attachment: fixed;
+}
+
+.text-position {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.abstract:first-child {
+  top: -16%;
+  left: -4%;
+}
+
+.abstract:nth-child(2) {
+  bottom: 0%;
+  left: 23%;
+}
+
+.abstract:nth-child(3) {
+  top: -33%;
+  right: 13%;
+  transform: rotate(-10deg);
+}
+
+.abstract:nth-child(4) {
+  top: 63%;
+  right: -3%;
+}
+
+.abstract:nth-child(4),
+.abstract:nth-child(1) {
+  height: 8rem;
+  width: 8rem;
+}
+
+.abstract:nth-child(2),
+.abstract:nth-child(3) {
+  height: 12rem;
+  width: 15rem;
+}

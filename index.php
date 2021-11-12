@@ -8,8 +8,8 @@
   <meta http-equiv="Cache-control" content="private,max-age:86400">
 
   <meta name="title" content="alya agency " />
-  <meta name="description" content="alya agency is  recruitment agencies that helps job seekers find jobs in the gufl countries" />
-  <meta name="keywords" content="recruitment agencies in kenya,jobs in qatar,jobs in dubai,jobs,in uae,kenya best recruitment agency
+  <meta name="description" content="ALMOHTADA TRAVEL LTD is  recruitment agencies that helps job seekers find jobs in the gufl countries" />
+  <meta name="keywords" content="recruitment agencies in kenya,jobs in qatar,jobs in dubai,jobs,in uae,kenya best recruitment agency,ALMOHTADA TRAVEL LTD,find jobs in the middle east
 recruitment process,
 recruitment agencies,
 recruitment agencies nairobi,
@@ -22,7 +22,7 @@ a recruitment agency," />
   <meta name="language" content="English" />
   <meta name="author" content="Abdisatar Mohamed" />
 
-  <title>Alya Agency</title>
+  <title>ALMOHTADA TRAVEL LTD</title>
   <!-- Favicon -->
 
   <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/apple-icon-57x57.png">
@@ -47,52 +47,16 @@ a recruitment agency," />
 
 
   <!-- Argon CSS -->
-  <link type="text/css" href="assets/css/argon-purified-min.css" rel="stylesheet" />
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" async ></script>
-  <style>
-    .card-whwd {
-      width: 4rem;
+  <link type="text/css" href="assets/css/argon.min.css" rel="stylesheet" />
+  <link type="text/css" href="assets/css/custom.min.css" rel="stylesheet" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" async></script>
 
-      height: 4rem;
-    }
-
-    .card-whwd>h4 {
-      text-align: center;
-    }
-
-    #why::before {
-      content: "";
-      background-color: #fff;
-      width: 100%;
-      position: absolute;
-      top: 0%;
-      left: 0%;
-      z-index: 1;
-    }
-
-    main {
-      overflow-x: hidden;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
-    .navbar-toggler {
-
-      border: 1px solid #ffffffde;
-      border-radius: 0.25rem;
-      background-color: transparent;
-      background-color: #fff;
-      color: #5b2aee;
-    }
-  </style>
 </head>
 
 <body>
   <header>
     <nav class="navbar navbar-expand-lg  fixed-top shadow pl-5">
-      <a class="navbar-brand" href="#home"><img loading="lazy" src="assets/logo/ALYA-LOGO.png" alt="ALYA AGENCY" width="30" height="30"></a>
+      <a class="navbar-brand" href="#home"><img loading="lazy" src="assets/logo/ALMOTAHDA.png" alt="ALYA AGENCY" width="30" height="30"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
             <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
@@ -105,10 +69,10 @@ a recruitment agency," />
             <a class="nav-link scroll" href="#home">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link scroll" href="#why">Why Choose Us</a>
+            <a class="nav-link scroll" href="#why">About Us</a>
           </li>
 
-          <li class="nav-item">
+          <li class="nav-item d-none">
             <a class="nav-link scroll" href="#job">Current Job List</a>
           </li>
           <li class="nav-item">
@@ -122,30 +86,29 @@ a recruitment agency," />
     </nav>
   </header>
 
-  <main class="mt-5">
-    <div class="container">
-      <section class="row mt-5 pt-5 pl-3 mr-3" id="home">
-        <div class="col-md-12 col-lg-7 position-relative mt-5">
-          <img loading="lazy" src="assets/icons/Path 10285.svg" alt="" />
-          <h1 class="display-2">ALYA AGENCY</h1>
-          <h2 class="display-3 pt-3 font-weight-400">
-            You are one step closer to find the Job of your dreams
-          </h2>
-          <h4 class="display-4 text-muted pt-2 font-weight-300">
-            We are a recruitment agency and we will connect you to more than a
-            hundred companies and help you land that job you wanted
-          </h4>
-          <a href="#job" class="btn btn-primary btn-large btn-block w-75 mt-5 py-4">Check Our Job Listing</a>
-        </div>
-        <div class="col-md-12 col-lg-5">
-          <img loading="lazy" src="assets/icons/Group 2035.jpg" alt="" srcset="" style="width: 35.9rem" class="mt--7 " id="heroImg" />
-        </div>
-      </section>
-    </div>
+  <main class="mt-0">
+
+    <section class="tinted-image  position-relative" id="home">
+
+      <article class="position-absolute text-position">
+
+        <h1 class="display-2 text-white">ALMOHTADA TRAVEL LTD,RECRUITMENT EXPERTS THAT CARE</h1>
+        <h2 class="display-3 pt-3 font-weight-400 text-white">
+          We are a recruitment agency and we will connect you to more than a
+          hundred companies and help you land that job you wanted
+        </h2>
+
+        <a href="#job" class="btn btn-danger btn-large btn-block w-75 mt-5 py-4">Check Our Job Listing</a>
+
+      </article>
+
+
+    </section>
+
 
     <div class="container-fluid pb-5 mb-5">
       <section class="row position-relative bg-white px-5" id="why">
-        <h2 class="display-3 px-lg-5 mx-lg-5 mt-5 pt-5">Why Choose Us?</h2>
+        <h2 class="display-3 px-lg-5 mx-lg-5 mt-5 pt-5">What we do?</h2>
         <h4 class="h4 px-lg-5 mx-lg-5 mb-5 font-weight-400 pt-3">
           As a recruitment agency, we believe that you can access the right
           employment opportunity. Our passion is to open up employment
@@ -155,40 +118,45 @@ a recruitment agency," />
           on behalf of our job seekers.
         </h4>
 
-        <article class="row mt-5 mx-lg-5">
+        <article class="row mt-5 mx-lg-5 position-relative mb-5 pb-5">
+          <img src="assets/icons/abstract-circle-1.svg" alt="" class="abstract position-absolute" alt="abstract items">
+          <img src="assets/icons/abstract-shape-1.svg" class="abstract position-absolute" alt="abstract items 2">
+          <img src="assets/icons/abstract-shape-2.svg" class="abstract position-absolute" alt="abstract items 3">
+          <img src="assets/icons/abstract-circle-2.svg" class="abstract position-absolute" alt="abstract items 4">
           <div class="col-md-12 col-lg-3">
             <div class="card p-4">
-              <img loading="lazy" src="assets/icons/Award.svg" alt="" class="card-whwd mx-auto" />
+              <img loading="lazy" src="assets/icons/champions.svg" alt="" class="card-whwd mx-auto" />
               <h4 class="h4 text-center">A well proven track</h4>
-              <p class="text-muted">
+              <p class="text-muted text-center">
                 We have helped over 1000 applicants get their dream jobs
               </p>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
             <div class="card p-4">
-              <img loading="lazy" src="assets/icons/Growth.svg" alt="" class="card-whwd mx-auto" />
+              <img loading="lazy" src="assets/icons/growth.svg" alt="" class="card-whwd mx-auto" />
               <h4 class="h4 text-center">Further Your Career</h4>
-              <p class="text-muted">
+              <p class="text-muted text-center">
                 Grow more by working for top companies
               </p>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
             <div class="card p-4">
-              <img loading="lazy" src="assets/icons/List.svg" alt="" class="card-whwd mx-auto" />
+              <img loading="lazy" src="assets/icons/list.svg" alt="" class="card-whwd mx-auto" />
               <h4 class="h4 text-center">A Variety Of Job Listings</h4>
               <p class="text-muted">
-                We have more than a hundred job listing you can chose from Medium-sized and Large enterprises
+                Choose from more than 100 Medium-sized and Large enterprises
               </p>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
             <div class="card p-4">
-              <img loading="lazy" src="assets/icons/Space.svg" alt="" class="card-whwd mx-auto" />
-              <h4 class="h4 text-center">A well proven track</h4>
-              <p class="text-muted">
-                We have connected more than 100 to different jobs
+              <img loading="lazy" src="assets/icons/space.svg" alt="" class="card-whwd mx-auto" />
+              <h4 class="h4 text-center">Sky rocket your career
+              </h4>
+              <p class="text-muted text-center">
+                Work with the brilliants minds in your field
               </p>
             </div>
           </div>
@@ -196,614 +164,62 @@ a recruitment agency," />
       </section>
     </div>
 
-    <div class="container">
-      <section class="row" id="job">
-        <h2 class="display-3 mt-5 pt-5 pl-lg-2">Current Job List</h2>
-
-        <article class="row mt-5">
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">Cleaners</h4>
-                <h4 class="font-weight-500">1,000DH</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-              <div class="row">
-                <a class="btn btn-primary" href="cleaners.jpeg" download>Read more</a>
-                <button class="btn btn-transparent shadow-none">
-                  Apply Now
-                </button>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-50">
-                <span>SAUDI ARABIA</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">DRIVERS</h4>
-                <h4 class="font-weight-500">1,500SR</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-              <div class="row">
-                <a class="btn btn-primary" href="drivers.jpeg" download>Read more</a>
-                <button class="btn btn-transparent shadow-none">
-                  Apply Now
-                </button>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-50">
-                <span>SAUDI ARABIA</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">House</h4>
-                <h4 class="font-weight-500">1,500SR</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-
-              <button class="btn btn-primary">
-                Apply Now
-              </button>
-            </div>
-          </div>
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-50">
-                <span>SAUDI ARABIA</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">DRIVERS</h4>
-                <h4 class="font-weight-500">1,500SR</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-
-              <button class="btn btn-primary">
-                Apply Now
-              </button>
-            </div>
-          </div>
-
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">AC DUCTMAN</h4>
-                <h4 class="font-weight-500">1,400AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">AC DUCTMAN</h4>
-                <h4 class="font-weight-500">1,400AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">PIPE FILTER FIRE FIGHTING</h4>
-                <h4 class="font-weight-500">1,400AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>QATAR</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">FIRE ALARM TECHNICIAN</h4>
-                <h4 class="font-weight-500">1,400AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>QATAR</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">FIRE FIGHTING FOREMAN</h4>
-                <h4 class="font-weight-500">2,000 AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>QATAR</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">MECHANICAL HELPER</h4>
-                <h4 class="font-weight-500">1,000 AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">MECHANICAL HELPER</h4>
-                <h4 class="font-weight-500">1,000 AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">ELECTRICAL HELPER</h4>
-                <h4 class="font-weight-500">1,000 AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-          <div class="col-md-12 col-lg-3">
-            <div class="card p-4">
-              <div class="badge badge-primary w-25">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted">Job Title</h5>
-              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
-                <h4 class="font-weight-500">PLUMBING HELPER</h4>
-                <h4 class="font-weight-500">1,000 AED</h4>
-              </div>
-
-              <h5 class="h5 text-muted py-2 mt--3">Requirements</h5>
-              <p class="">Must have a valid passport</p>
-              <p class="">Curriculum Vitae (CV)</p>
-              <p class="">Full photo & Small photo</p>
-              <p class="">Full Medical</p>
-
-              <button class="btn btn-primary btn-block">Apply Now</button>
-            </div>
-          </div>
-        </article>
-      </section>
-    </div>
     <div class="container mb-5 pb-5">
-      <h2 class="display-3 mt-5 pt-5">We are giving Freelance Visas for 2 years</h2>
-      <section class="row" id="other">
+      <h2 class="display-3 mt-5 pt-5">Our Job Lisiting</h2>
+      <section class="row" id="job">
         <article class="row mt-5 w-100 mx-auto">
-          <div class="col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
                 <span>DUBAI</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Cleaners</h4>
 
               <div class="row">
-                <a class="btn btn-primary btn-block w-75 mx-auto" href="#contact">Apply</a>
+                <a class="btn btn-danger btn-block w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>SAUDI ARABIA</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">House Maids</h4>
 
               <div class="row">
-                <a class="btn btn-primary btn-block w-75 mx-auto" href="#contact">Apply</a>
+                <a class="btn btn-danger btn-block w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>SAUDI ARABIA</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Project manager </h4>
+              <h4 class="font-weight-500 text-center mt-0">Cleaners </h4>
 
               <div class="row">
-                <a class="btn btn-primary btn-block w-75 mx-auto" href="#contact">Apply</a>
+                <a class="btn btn-danger btn-block w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-2">
+          <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>SAUDI ARABIA</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Hr manager </h4>
+              <h4 class="font-weight-500 text-center mt-0">Drivers </h4>
 
               <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Office manager</h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Marketing manager </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Technical manager </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Project engineer </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Electrical engineer </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Mechanial engineer </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Computer engineer </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Admin manager </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Sales executives </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Purchasing representative </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Sales representative </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Office clerk </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Archive clerk </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Follow up clerk </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Receptionist </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Secretary </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Supervisor </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Marketing specialist </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Labour </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-2">
-            <div class="card p-4">
-              <div class="badge badge-lg badge-primary rounded-circle py-4 mx-auto">
-                <span>DUBAI</span>
-              </div>
-              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Technician </h4>
-
-              <div class="row ">
-                <a class="btn btn-primary btn-block  w-75 mx-auto" href="#contact">Apply</a>
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
@@ -892,7 +308,7 @@ a recruitment agency," />
     require_once 'vendor/autoload.php';
 
     $valid["message"] = "something went wrong ";
-    if ($_POST['email']) {
+    if (isset($_POST['email'])) {
 
 
 
@@ -1002,32 +418,32 @@ a recruitment agency," />
         <textarea name="message" id="message" cols="30" rows="30" class="form-control" placeholder="i am contacting you over this job" name="message"></textarea>
       </div>
 
-      <button class="btn btn-block btn-primary w-50">
+      <button class="btn btn-block btn-danger w-50">
         Send Us a Message
       </button>
     </form>
   </main>
 
   <footer style="
-        background-image: url('assets/icons/MaskGroup57.svg');
+        background-image: url('footer.svg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
        
       " class="py-5 mt-5">
     <h5 class="text-center display-4 text-white pt-5 mt-5">
-      Portal House, along Muindi Mbingu Street.
+
+
     </h5>
-    <h5 class="text-center display-4 text-white pt-2 mt-2">3rd Floor,RM 306</h5>
+    <h5 class="text-center display-4 text-white pt-2 mt-2">Cianda House Koinange Street,RM M02</h5>
     <h5 class="text-center display-4 text-white pt-3 mt-3">
-      Email:- info@alyaagency.co.ke
-            - mariammaria054@gmail.com
+      Email:- teresiamwende95@gmail.com
     </h5>
-     <h5 class="text-center display-4 text-white pt-3 mt-3">
-      Tel:- +254799130089
-          - +254740178190
+    <h5 class="text-center display-4 text-white pt-3 mt-3">
+      Tel:- +254740833653
+      - +25470018333
     </h5>
-    <h5 class="text-center display-4 text-white">www.alyaagency.co.ke</h5>
+    <h5 class="text-center display-4 text-white"> P.O BOX 104610-00100 G.P.O Nairobi.</h5>
 
     <div class="row no-gutters w-25 mx-auto px-5 pt-3 mt-3">
       <div class="col">
@@ -1046,9 +462,9 @@ a recruitment agency," />
   <script src="assets/js/bootstrap.bundle.min.js" async></script>
 
   <!-- Argon JS -->
-  <script src="/assets/js/argon.min.js" async></script>
+  <script src="assets/js/argon.min.js" async></script>
   <script src="assets/js/custom.js" async></script>
-  
+
 </body>
 
 </html>
