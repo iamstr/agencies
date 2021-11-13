@@ -1,10 +1,11 @@
-let cacheName = "my-first-pwa";
+let cacheName = "almotahdatravellingltd-pwa";
 let filesToCache = [
   "assets/css/argon.min.css",
   "assets/css/custom.min.css",
   "assets/js/bootstrap.bundle.min.js",
-  "assets/js/argon.min.js",
   "https://code.jquery.com/jquery-3.6.0.min.js",
+  "assets/js/argon.min.js",
+  "assets/js/custom.min.js",
   "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700",
   "assets/icons/abstract-circle-1.svg",
   "assets/icons/abstract-circle-2.svg",

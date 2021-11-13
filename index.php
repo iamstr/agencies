@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <meta http-equiv="Cache-control" content="private,max-age:86400">
+  <meta http-equiv="Cache-control" content="no-cache">
 
   <meta name="title" content="alya agency " />
   <meta name="description" content="ALMOHTADA TRAVEL LTD is  recruitment agencies that helps job seekers find jobs in the gufl countries" />
@@ -39,9 +39,9 @@ a recruitment agency," />
   <link rel="icon" type="image/png" sizes="96x96" href="assets/logo/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="assets/logo/favicon-16x16.png">
   <link rel="manifest" href="assets/logo/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileColor" content="#f52727">
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-  <meta name="theme-color" content="#5b2aee">
+  <meta name="theme-color" content="#f52727">
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet preconnect" />
 
@@ -165,7 +165,7 @@ a recruitment agency," />
     </div>
 
     <div class="container mb-5 pb-5">
-      <h2 class="display-3 mt-5 pt-5">Our Job Lisiting</h2>
+      <h2 class="display-3 mt-5 pt-5">Our Job Listing</h2>
       <section class="row" id="job">
         <article class="row mt-5 w-100 mx-auto">
           <div class="col-md-6 col-lg-3">
@@ -217,6 +217,136 @@ a recruitment agency," />
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Drivers </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Drivers </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Cleaners </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Cleaners </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Chefs </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Waiters </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Store Keepers </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">House Keepers </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Electricians </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Masons </h4>
+
+              <div class="row ">
+                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="card p-4">
+              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+                <span>QATAR</span>
+              </div>
+              <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
+              <h4 class="font-weight-500 text-center mt-0">Laborers & Plumbers </h4>
 
               <div class="row ">
                 <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
@@ -441,7 +571,7 @@ a recruitment agency," />
     </h5>
     <h5 class="text-center display-4 text-white pt-3 mt-3">
       Tel:- +254740833653
-      - +25470018333
+      - +254700183330
     </h5>
     <h5 class="text-center display-4 text-white"> P.O BOX 104610-00100 G.P.O Nairobi.</h5>
 
@@ -463,7 +593,7 @@ a recruitment agency," />
 
   <!-- Argon JS -->
   <script src="assets/js/argon.min.js" async></script>
-  <script src="assets/js/custom.js" async></script>
+  <script src="assets/js/custom.min.js" async></script>
 
 </body>
 

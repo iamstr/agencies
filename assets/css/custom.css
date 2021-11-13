@@ -31,12 +31,8 @@ html {
 }
 
 .tinted-image {
-  background:
-        /* top, transparent red, faked with gradient */ linear-gradient(
-      rgba(255, 0, 0, 0.45),
-      rgba(255, 0, 0, 0.45)
-    ),
-    /* bottom, image */ url("../img/image-background.jpg");
+  background: linear-gradient(rgba(255, 0, 0, 0.45), rgb(43 0 0 / 98%)),
+    url("../img/image-background.jpg");
   height: 50rem;
   background-blend-mode: luminosity;
   background-position: center;

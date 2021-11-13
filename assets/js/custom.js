@@ -47,7 +47,7 @@ $(document).ready(function () {
 
       $("footer .row.no-gutters.mx-auto.px-5.pt-3.mt-3").addClass("w-100");
 
-      console.log($(window).width());
+      $(".tinted-image").css({ backgroundAttachment: "unset" });
     } else {
       $("#heroImg").removeClass("img-fluid");
       $("footer .row.no-gutters.mx-auto.px-5.pt-3.mt-3")
@@ -56,6 +56,7 @@ $(document).ready(function () {
       $("#job").removeClass("mx-auto");
       $("#job h2.display-3").removeClass("text-center");
       $(".abstract").removeClass("d-none");
+      $(".tinted-image").css({ backgroundAttachment: "fixed" });
     }
   });
 
