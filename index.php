@@ -242,7 +242,7 @@ a recruitment agency," />
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-              <h4 class="font-weight-500 text-center mt-0">Cleaners </h4>
+              <h4 class="font-weight-500 text-center mt-0">Security Guards </h4>
 
               <div class="row ">
                 <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
