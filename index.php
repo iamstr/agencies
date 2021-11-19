@@ -48,7 +48,7 @@ a recruitment agency," />
 
   <!-- Argon CSS -->
   <link type="text/css" href="assets/css/argon-purified-min.css" rel="stylesheet" />
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" async ></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" async></script>
   <style>
     .card-whwd {
       width: 4rem;
@@ -86,6 +86,7 @@ a recruitment agency," />
       background-color: #fff;
       color: #5b2aee;
     }
+
   </style>
 </head>
 
@@ -219,9 +220,9 @@ a recruitment agency," />
               <p class="">Full Medical</p>
               <div class="row">
                 <a class="btn btn-primary" href="cleaners.jpeg" download>Read more</a>
-                <button class="btn btn-transparent shadow-none">
+                <a href="#contact" class="btn btn-transparent shadow-none">
                   Apply Now
-                </button>
+                </a>
               </div>
             </div>
           </div>
@@ -244,9 +245,9 @@ a recruitment agency," />
               <p class="">Full Medical</p>
               <div class="row">
                 <a class="btn btn-primary" href="drivers.jpeg" download>Read more</a>
-                <button class="btn btn-transparent shadow-none">
+                <a href="#contact" class="btn btn-transparent shadow-none">
                   Apply Now
-                </button>
+                </a>
               </div>
             </div>
           </div>
@@ -268,9 +269,9 @@ a recruitment agency," />
               <p class="">Full Medical</p>
 
 
-              <button class="btn btn-primary">
+              <a href="#contact" class="btn btn-primary">
                 Apply Now
-              </button>
+              </a>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
@@ -291,9 +292,9 @@ a recruitment agency," />
               <p class="">Full Medical</p>
 
 
-              <button class="btn btn-primary">
+              <a href="#contact" class="btn btn-primary">
                 Apply Now
-              </button>
+              </a>
             </div>
           </div>
 
@@ -314,7 +315,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
 
@@ -335,7 +336,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
 
@@ -356,7 +357,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
 
@@ -377,7 +378,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
 
@@ -398,7 +399,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
 
@@ -419,7 +420,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
@@ -439,7 +440,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
@@ -459,7 +460,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
           <div class="col-md-12 col-lg-3">
@@ -479,7 +480,7 @@ a recruitment agency," />
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
 
-              <button class="btn btn-primary btn-block">Apply Now</button>
+              <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
         </article>
@@ -808,7 +809,7 @@ a recruitment agency," />
             </div>
           </div>
 
-    </div>
+    
 
     </article>
     </section>
@@ -892,7 +893,7 @@ a recruitment agency," />
     require_once 'vendor/autoload.php';
 
     $valid["message"] = "something went wrong ";
-    if ($_POST['email']) {
+    if (isset($_POST['email'])) {
 
 
 
@@ -1021,11 +1022,11 @@ a recruitment agency," />
     <h5 class="text-center display-4 text-white pt-2 mt-2">3rd Floor,RM 306</h5>
     <h5 class="text-center display-4 text-white pt-3 mt-3">
       Email:- info@alyaagency.co.ke
-            - mariammaria054@gmail.com
+      - mariammaria054@gmail.com
     </h5>
-     <h5 class="text-center display-4 text-white pt-3 mt-3">
+    <h5 class="text-center display-4 text-white pt-3 mt-3">
       Tel:- +254799130089
-          - +254740178190
+      - +254740178190
     </h5>
     <h5 class="text-center display-4 text-white">www.alyaagency.co.ke</h5>
 
@@ -1043,12 +1044,12 @@ a recruitment agency," />
   </footer>
 
   <!-- <script src="assets/jquery.min.js"></script> -->
-  <script src="assets/js/bootstrap.bundle.min.js" async></script>
+  <script src="assets/js/bootstrap.bundle.min.js" defer></script>
 
   <!-- Argon JS -->
-  <script src="/assets/js/argon.min.js" async></script>
-  <script src="assets/js/custom.js" async></script>
-  
+  <script src="/assets/js/argon.min.js" defer></script>
+  <script src="assets/js/custom.js" defer></script>
+
 </body>
 
 </html>
