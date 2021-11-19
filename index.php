@@ -218,9 +218,9 @@ a recruitment agency," />
               <p class="">Curriculum Vitae (CV)</p>
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
-              <div class="row">
-                <a class="btn btn-primary" href="cleaners.jpeg" download>Read more</a>
-                <a href="#contact" class="btn btn-transparent shadow-none">
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="cleaners.jpeg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
                   Apply Now
                 </a>
               </div>
@@ -243,9 +243,9 @@ a recruitment agency," />
               <p class="">Curriculum Vitae (CV)</p>
               <p class="">Full photo & Small photo</p>
               <p class="">Full Medical</p>
-              <div class="row">
-                <a class="btn btn-primary" href="drivers.jpeg" download>Read more</a>
-                <a href="#contact" class="btn btn-transparent shadow-none">
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="drivers.jpeg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
                   Apply Now
                 </a>
               </div>
@@ -483,6 +483,212 @@ a recruitment agency," />
               <a href="#contact" class="btn btn-primary btn-block">Apply Now</a>
             </div>
           </div>
+        </article>
+      </section>
+      <h2 class="display-3 mt-5 pt-5 pl-lg-2">Turkey Job List</h2>
+      <section class="row w-100">
+
+
+        <article class="row w-100 mt-5">
+          <div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">House Keeping</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Dish Washer</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+ <div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Cleaner</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Cooker</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Waiter</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Assisant Waiter</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+ <div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Loader</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+<div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Electrician</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+<div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Technician</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+<div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Cook Assisant</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+<div class="col-md-12 col-lg-3">
+            <div class="card p-4">
+
+              <h5 class="h6 text-muted">Job Title</h5>
+              <div class="d-flex flex-row justify-content-between align-items-end mt--5">
+                <h4 class="font-weight-500">Spa Therapist</h4>
+                <h4 class="font-weight-500">kes 65,000</h4>
+              </div>
+
+
+              <div class="row no-gutters p-0 w-100">
+                <a class="btn btn-primary col-lg-6 mx-0" href="terms.jpg" download>Read more</a>
+                <a href="#contact" class="btn btn-transparent shadow-none col-lg-6">
+                  Apply Now
+                </a>
+              </div>
+            </div>
+          </div>
+
         </article>
       </section>
     </div>
@@ -809,10 +1015,10 @@ a recruitment agency," />
             </div>
           </div>
 
-    
 
-    </article>
-    </section>
+
+        </article>
+      </section>
     </div>
 
     <div class="bg-white container-fluid py-5 my-5 d-none">
