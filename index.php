@@ -7,8 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta http-equiv="Cache-control" content="no-cache">
 
-  <meta name="title" content="alya agency " />
-  <meta name="description" content="ALMOHTADA TRAVEL LTD is  recruitment agencies that helps job seekers find jobs in the gufl countries" />
+  <meta name="title" content="LELEI PRENCY EXPRESS HR CONSULTANT LTD " />
+  <meta name="description" content="LELEI PRENCY EXPRESS HR CONSULTANT LTD  recruitment agencies that helps job seekers find jobs in the gufl countries" />
   <meta name="keywords" content="recruitment agencies in kenya,jobs in qatar,jobs in dubai,jobs,in uae,kenya best recruitment agency,ALMOHTADA TRAVEL LTD,find jobs in the middle east
 recruitment process,
 recruitment agencies,
@@ -16,7 +16,8 @@ recruitment agencies nairobi,
 recruitment agency,
 recruitment agencies in qatar,
 recruitment agencies in kenya for qatar,
-a recruitment agency," />
+a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in kenya" />
+
   <meta name="robots" content="index" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="language" content="English" />
@@ -47,8 +48,8 @@ a recruitment agency," />
 
 
   <!-- Argon CSS -->
-  <link type="text/css" href="assets/css/argon.min.css" rel="stylesheet" />
-  <link type="text/css" href="assets/css/custom.min.css" rel="stylesheet" />
+  <link type="text/css" href="assets/css/argon.css" rel="stylesheet" />
+  <link type="text/css" href="assets/css/custom.css" rel="stylesheet" />
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" async></script>
 
 </head>
@@ -87,25 +88,31 @@ a recruitment agency," />
   </header>
 
   <main class="mt-0">
+    <div class="site-section my-5" id="about">
+      <div class="container">
+        <div class="row mb-5">
 
-    <section class="tinted-image  position-relative" id="home">
+          <div class="col-md-5 ml-auto mb-5 order-md-2 aos-init aos-animate rounded" data-aos="fade">
+            <img src="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash.jpg" alt="" style="object-fit: cover;width: 500px;height: 800px;">
+          </div>
+          <div class="aos-animate aos-init col-md-6 mt-5 order-md-1 pt-5" data-aos="fade">
 
-      <article class="position-absolute text-position">
+            <h1 class="display-2 ">LELEI PRENCY EXPRESS HR CONSULTANT LTD</h1>
+            <h2 class="display-4 pt-3 font-weight-300  ">
+              We are a multi-faceted
+              company providing total solutions for human resource.
+            </h2>
+            <p> We not only offer recruitment solutions but
+              provide a flexible means for the global private & government sector towards fulfilling of domestic
+              labor demands. </p>
+            <a href="#job" class="btn btn-warning btn-large btn-block w-75 mt-5 py-4">About us</a>
 
-        <h1 class="display-2 text-white">ALMOHTADA TRAVEL LTD,RECRUITMENT EXPERTS THAT CARE</h1>
-        <h2 class="display-3 pt-3 font-weight-400 text-white">
-          We are a recruitment agency and we will connect you to more than a
-          hundred companies and help you land that job you wanted
-        </h2>
+          </div>
 
-        <a href="#job" class="btn btn-danger btn-large btn-block w-75 mt-5 py-4">Check Our Job Listing</a>
+        </div>
 
-      </article>
-
-
-    </section>
-
-
+      </div>
+    </div>
     <div class="container-fluid pb-5 mb-5">
       <section class="row position-relative bg-white px-5" id="why">
         <h2 class="display-3 px-lg-5 mx-lg-5 mt-5 pt-5">What we do?</h2>
@@ -163,6 +170,76 @@ a recruitment agency," />
         </article>
       </section>
     </div>
+    <div class="site-section my-5" id="about">
+      <div class="container">
+        <div class="row mb-5">
+
+          <div class="col-md-6 order-md-2 aos-init aos-animate pl-3" data-aos="fade">
+            <div class="text-left pb-1 border-primary border-success mb-4">
+              <h2 class="">Who we are</h2>
+            </div>
+            <p>Lelei Prency .E.H.C Limited was founded on the precepts of fully operating as a multi-faceted
+              company providing total solutions for human resource. We not only offer recruitment solutions but
+              provide a flexible means for the global private & government sector towards fulfilling of domestic
+              labor demands. We’ve a vast knowledge and special insight, skill and resources to actualize the
+              best manpower services, through proper partnership programs with many of our clients. Screening
+              and shortlisting processes that put great emphasis on retaining the best candidates for our clients.
+            </p>
+
+            <div class="text-left pb-1 border-primary border-success mb-4">
+              <h2 class="">Our mission</h2>
+            </div>
+            <p class="mb-5">
+              Using thought leadership, we search and connect our clients with opportunities in a more valuable,
+              less invasive way where candidates are earned rather than bought. And Kenya as our home has
+              presented the best environment to achieve this. </p>
+
+            <div class="text-left pb-1 border-primary border-success mb-4">
+              <h2 class=""> Company Profile</h2>
+            </div>
+            <p class="mb-5">
+              As your recruiter of choice, we embrace the fact that there’s no limit in quality of talent and human
+              resource in East &Central Africa.
+              We therefore, have made it our business to source and find the best talent across the continent </p>
+            <div class="text-left pb-1 border-primary border-success mb-4">
+              <h2 class=""> Nature of Work</h2>
+            </div>
+            <p class="mb-5">
+              Head Hunting: Our team of headhunters/executive recruiters have proven through experience as
+              having the skill-set to execute recruiting plans within both agency and in-house settings. They also
+              manage all phases of full-cycle recruiting; from initial sourcing & screening through negotiating,
+              placement and onboarding. We effortlessly convert talent into hires.
+            </p>
+            <p class="mb-5">
+              In-house Recruitment: With more & more companies facing a challenge with the cost & general
+              quality of an internal recruitment process, the possibilities of opting for recruitment outsourcing
+              solutions have become more vivid. This is where we step in as additional muscle to add to our
+              executive search and recruitment.
+
+            </p>
+          </div>
+
+
+
+          <div class="col-md-6 ml-auto mb-5 order-md-1 aos-init aos-animate rounded" data-aos="fade">
+            <img src="assets/img/image-background.jpg" alt="" style="object-fit: cover;width: 100%;" class="mb-4 ml-2 rounded">
+            <img src="assets/img/bruce-mars-GzumspFznSE-unsplash.jpg" alt="" style="object-fit: cover;width: 100%;" class="mt-4 ml-3 mr-2 rounded">
+            <img src="assets/img/cytonn-photography-n95VMLxqM2I-unsplash.jpg" alt="" style="object-fit: cover;width: 100%;" class="mt-4 ml-2 rounded">
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container-fluid pb-5 mb-5">
+      <section class="row position-relative bg-white px-5 flex-column align-items-center  pb-5" id="why">
+        <h2 class="display-3 px-lg-5 mx-lg-5 my-5 py-5">Our Partners</h2>
+
+        <img src="assets/img/partners.PNG" alt="">
+        <img src="assets/img/partners2.PNG" alt="">
+      </section>
+    </div>
 
     <div class="container mb-5 pb-5">
       <h2 class="display-3 mt-5 pt-5">Our Job Listing</h2>
@@ -170,186 +247,186 @@ a recruitment agency," />
         <article class="row mt-5 w-100 mx-auto">
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>DUBAI</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Cleaners</h4>
 
               <div class="row">
-                <a class="btn btn-danger btn-block w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>SAUDI ARABIA</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">House Maids</h4>
 
               <div class="row">
-                <a class="btn btn-danger btn-block w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>SAUDI ARABIA</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Cleaners </h4>
 
               <div class="row">
-                <a class="btn btn-danger btn-block w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>SAUDI ARABIA</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Drivers </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Drivers </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Security Guards </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Cleaners </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Chefs </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Waiters </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Store Keepers </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">House Keepers </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Electricians </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Masons </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-3">
             <div class="card p-4">
-              <div class="badge badge-lg badge-danger rounded-circle py-4 mx-auto">
+              <div class="badge badge-lg badge-warning rounded-circle py-4 mx-auto">
                 <span>QATAR</span>
               </div>
               <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
               <h4 class="font-weight-500 text-center mt-0">Laborers & Plumbers </h4>
 
               <div class="row ">
-                <a class="btn btn-danger btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
+                <a class="btn btn-warning btn-block  w-75 mx-auto" href="#contact">Get More Info</a>
               </div>
             </div>
           </div>
@@ -548,7 +625,7 @@ a recruitment agency," />
         <textarea name="message" id="message" cols="30" rows="30" class="form-control" placeholder="i am contacting you over this job" name="message"></textarea>
       </div>
 
-      <button class="btn btn-block btn-danger w-50">
+      <button class="btn btn-block btn-warning w-50">
         Send Us a Message
       </button>
     </form>

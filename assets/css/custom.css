@@ -80,3 +80,9 @@ html {
   height: 12rem;
   width: 15rem;
 }
+.site-section {
+  padding: 2.5em 0;
+}
+@media (min-width: 768px) .site-section {
+  padding: 5em 0;
+}
