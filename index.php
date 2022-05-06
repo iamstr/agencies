@@ -632,7 +632,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
   </main>
 
   <footer style="
-        background-image: url('footer.svg');
+        background-image: url('assets/icons/footer.svg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -642,15 +642,18 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
 
 
     </h5>
-    <h5 class="text-center display-4 text-white pt-2 mt-2">Cianda House Koinange Street,RM M02</h5>
-    <h5 class="text-center display-4 text-white pt-3 mt-3">
-      Email:- teresiamwende95@gmail.com
+    <h5 class="text-center display-4 text-white pt-2 mt-2">Narsh Hse, Morktah Daddah
+      Street
+
+
     </h5>
     <h5 class="text-center display-4 text-white pt-3 mt-3">
-      Tel:- +254740833653
-      - +254700183330
+      Email:- leleiprency@gmail.com
     </h5>
-    <h5 class="text-center display-4 text-white"> P.O BOX 104610-00100 G.P.O Nairobi.</h5>
+    <h5 class="text-center display-4 text-white pt-3 mt-3">
+      Tel:- +254726140977
+    </h5>
+    <h5 class="text-center display-4 text-white"> P.O.Box 251, Kitale.</h5>
 
     <div class="row no-gutters w-25 mx-auto px-5 pt-3 mt-3">
       <div class="col">
