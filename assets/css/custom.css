@@ -16,6 +16,11 @@ html {
   scroll-behavior: smooth;
 }
 
+.btn-warning {
+  border-color: transparent;
+  background-color: #5535de;
+}
+
 .navbar-toggler {
   border: 1px solid #ffffffde;
   border-radius: 0.25rem;

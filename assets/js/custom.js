@@ -64,7 +64,7 @@ $(document).ready(function () {
     var scroll = $(window).scrollTop();
     if (scroll > 300) {
       $("nav").css({
-        backgroundColor: "#F52727"
+        backgroundColor: "#5535de"
       });
       $(".nav-link").css({
         color: "#fff"
