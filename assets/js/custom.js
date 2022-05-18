@@ -62,20 +62,20 @@ $(document).ready(function () {
 
   $(window).scroll(function (event) {
     var scroll = $(window).scrollTop();
-    if (scroll > 300) {
+    // if (scroll > 300) {
       $("nav").css({
         backgroundColor: "#5535de"
       });
       $(".nav-link").css({
         color: "#fff"
       });
-    } else {
-      $("nav").css({
-        backgroundColor: "#f8f9fe"
-      });
-      $(".nav-link").css({
-        color: "inherit"
-      });
-    }
+    // } else {
+      // $("nav").css({
+      //   backgroundColor: "#f8f9fe"
+      // });
+      // $(".nav-link").css({
+      //   color: "inherit"
+      // });
+    // }
   });
 });

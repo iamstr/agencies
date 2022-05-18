@@ -23,7 +23,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
   <meta name="language" content="English" />
   <meta name="author" content="Abdisatar Mohamed" />
 
-  <title>ALMOHTADA TRAVEL LTD</title>
+  <title>LELEI PRENCY EXPRESS HR CONSULTANT LTD</title>
   <!-- Favicon -->
 
   <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/apple-icon-57x57.png">
@@ -42,7 +42,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
   <link rel="manifest" href="assets/logo/manifest.json">
   <meta name="msapplication-TileColor" content="#f52727">
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-  <meta name="theme-color" content="#f52727">
+  <meta name="theme-color" content="#5535de">
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet preconnect" />
 
@@ -50,14 +50,97 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
   <!-- Argon CSS -->
   <link type="text/css" href="assets/css/argon.css" rel="stylesheet" />
   <link type="text/css" href="assets/css/custom.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" async></script>
+  <style>
+    .carousel-control-prev,
+    .carousel-control-next {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      z-index: 1;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-align: center;
+      align-items: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      width: 15%;
+      padding: 0;
+      color: #fff;
+      text-align: center;
+      background: 0 0;
+      border: 0;
+      opacity: .5;
+      transition: opacity .15s ease;
+    }
 
+    .carousel-caption {
+      position: absolute;
+      z-index: 10;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+      color: #fff;
+      text-align: center;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: white;
+    }
+  </style>
 </head>
 
 <body>
   <header>
-    <nav class="navbar navbar-expand-lg  fixed-top shadow pl-5">
-      <a class="navbar-brand" href="#home"><img loading="lazy" src="assets/logo/ALMOTAHDA.png" alt="ALYA AGENCY" width="30" height="30"></a>
+    <div class="easy-access-contact  justify-content-around position-relative site-section d-none  d-lg-flex align-items-center">
+      <img loading="lazy" src="assets/logo/ALMOTAHDA.png" alt="ALYA AGENCY" width="200" height="100" class=""></a>
+      <div class="easy-access-contact-info d-flex justify-content-between">
+        <div class="cwp-contact-info-item d-flex justify-content-between pr-3">
+          <span class="cwp-contact-info-icon pr-3">
+            <i class="fa fa-2x fa-map"></i>
+          </span>
+          <span class="cwp-contact-info-content">
+            <h4 class="cwp-contact-info-title">Biashara Street, Laxmi Plaza 1st Floor. </h4>
+            <span class="cwp-contact-info-text">
+              <a href="">
+                Nairobi, Kenya. </a>
+            </span>
+          </span>
+        </div>
+        <div class="cwp-contact-info-item d-flex justify-content-between pr-3">
+          <span class="cwp-contact-info-icon pr-3">
+            <i class="fa fa-2x fa-envelope"></i>
+          </span>
+          <span class="cwp-contact-info-content">
+            <h4 class="cwp-contact-info-title">Send your mail at</h4>
+            <span class="cwp-contact-info-text">
+              <a href="mailto:#" target="_blank">
+                info@leleiagency.co.ke </a>
+            </span>
+          </span>
+        </div>
+        <div class="cwp-contact-info-item d-flex justify-content-between pr-3">
+          <span class="cwp-contact-info-icon pr-3">
+            <i class="fa fa-2x fa-mobile"></i>
+          </span>
+          <span class="cwp-contact-info-content">
+            <h4 class="cwp-contact-info-title">Phone Number</h4>
+            <span class="cwp-contact-info-text">
+              <a href="tel:#" target="_blank">
+                +254 726 140 977 </a>
+              <a href="tel:#" target="_blank">
+                +254 728 493 067 </a>
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <nav class="navbar navbar-expand-lg   pl-5" style="background-color: #5535de;color: #fff;">
+      <a class="navbar-brand" href="#home"><img loading="lazy" src="assets/logo/ALMOTAHDA.png" alt="ALYA AGENCY" width="30" height="30" class="d-lg-none"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
             <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
@@ -65,22 +148,25 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       </button>
 
       <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <ul class="navbar-nav mx-auto mt-2 mt-lg-0">
           <li class="nav-item active">
             <a class="nav-link scroll" href="#home">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link scroll" href="#why">About Us</a>
+            <a class="nav-link scroll text-white text-uppercase" href="#why">About Us</a>
           </li>
 
           <li class="nav-item d-none">
-            <a class="nav-link scroll" href="#job">Current Job List</a>
+            <a class="nav-link scroll text-white text-uppercase" href="#job">Our services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link scroll" href="#other">Other Job List</a>
+            <a class="nav-link scroll text-white text-uppercase" href="#other">Jobs</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link scroll" href="#contact">Contact Us</a>
+            <a class="nav-link scroll text-white text-uppercase" href="#other">gallery</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link scroll text-white text-uppercase" href="#contact">Contact Us</a>
           </li>
         </ul>
       </div>
@@ -88,6 +174,41 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
   </header>
 
   <main class="mt-0">
+
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+
+      <div class="carousel-inner" style="height: 40rem;">
+        <div class="carousel-item active">
+          <img src="assets/img/gallery/4.jpeg" class=" d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>First slide label</h5>
+            <p>Some representative placeholder content for the first slide.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="assets/img/gallery/2.jpeg" class=" d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Second slide label</h5>
+            <p>Some representative placeholder content for the second slide.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="assets/img/gallery/3.jpeg" class=" d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Third slide label</h5>
+            <p>Some representative placeholder content for the third slide.</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </button>
+    </div>
     <div class="site-section my-5" id="about">
       <div class="container">
         <div class="row mb-5">
@@ -674,7 +795,10 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
   <!-- Argon JS -->
   <script src="assets/js/argon.min.js" async></script>
   <script src="assets/js/custom.min.js" async></script>
-
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 </body>
 
 </html>
