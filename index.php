@@ -102,6 +102,99 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       margin: auto;
     }
   </style>
+
+  <style>
+    .icon-box {
+      padding: 40px;
+      border-radius: 24px;
+      background: #ecf2f5;
+      text-align: center;
+      transition: all .35s;
+      min-height: 28rem;
+    }
+
+    .icon-box:hover,
+    .icon-box.active {
+      border: 0;
+      background: #0d7ceb linear-gradient(180deg, #3ed0e7, #1fc6fa) repeat-x;
+      color: #fff;
+    }
+
+    .icon-box .entry-title {
+      margin-top: 28px;
+      font-size: 24px;
+      font-weight: 600;
+      color: #262626;
+    }
+
+    .block-team-member-1 {
+      padding: 30px;
+      border: 1px solid #e9ecef;
+    }
+
+    .block-team-member-1 figure img {
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+    }
+
+    .border-primary.text-left:after {
+      -webkit-transform: translateX(0%);
+      transform: translateX(0%);
+    }
+
+    .text-left.pb-1.border-primary.border-success.mb-4 {
+      position: relative;
+    }
+
+    @media (min-width: 768px) {
+      .site-section {
+        padding: 5em 0;
+      }
+    }
+
+    .site-section {
+      padding: 2.5em 0;
+    }
+
+    .bg-lighten-main {
+      background-color: #ebf5f8;
+    }
+
+    /* Create four equal columns that sits next to each other */
+    .column {
+      -ms-flex: 33.333%;
+      /* IE10 */
+      flex: 33.333%;
+      max-width: 33.333%;
+      padding: 0 4px;
+    }
+
+    .column img {
+      margin-top: 8px;
+      vertical-align: middle;
+      width: 100%;
+      border-radius: 7px;
+    }
+
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 800px) {
+      .column {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+      }
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+      .column {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -347,9 +440,66 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
         </div>
       </div>
     </div>
+
+    <section class="site-section ">
+
+      <div class="container my-5">
+        <div class="row mb-5 justify-content-center">
+          <div class="col-md-7 text-center">
+            <h2 class="display-2 text-uppercase text-uppercase section-title">Our Services</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 col-md-6 col-lg-4 mt-4 mt-lg-0">
+            <div class="icon-box ">
+              <figure class="d-flex justify-content-center">
+                <i class="fa-brands fa-3x fa-cc-visa"></i>
+              </figure>
+              <header class="entry-header">
+                <h3 class="entry-title">VISA APPLICATION</h3>
+              </header>
+              <div class="entry-content">
+
+                <p>Our Visa tracking officer keeps an electronic visa log for all the visas that have been launched and the expected completion date of the visa the client’s traveling date.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <figure class="d-flex justify-content-center">
+                <i class="fa-solid fa-3x fa-plane-circle-check"></i>
+
+              </figure>
+              <header class="entry-header">
+                <h3 class="entry-title">TICKETING</h3>
+              </header>
+              <div class="entry-content">
+                <p>We have been a successful partner for different airlines both locally and international. We offer and manage travel solutions for both local and international travelers. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 col-lg-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <figure class="d-flex justify-content-center">
+                <i class="fa-solid fa-3x fa-people-line"></i>
+              </figure>
+              <header class="entry-header">
+                <h3 class="entry-title">TRAINING & CONSULTANCY</h3>
+              </header>
+              <div class="entry-content">
+                <p>Our expertise includes market mapping and assessment to career management, outplacement.we helps employees learn specific knowledge or skills to improve performance in their current roles. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
     <div class="container-fluid pb-5 mb-5">
       <section class="row position-relative bg-white px-5" id="why" data-aos="fade-up-right">
-        <h2 class="display-3 px-lg-5 mx-lg-5 mt-5 pt-5">What we do?</h2>
+        <h2 class="display-2 text-uppercase px-lg-5 mx-lg-5 mt-5 pt-5 text-center">What we do?</h2>
         <h4 class="h4 px-lg-5 mx-lg-5 mb-5 font-weight-400 pt-3">
           As a recruitment agency, we believe that you can access the right
           employment opportunity. Our passion is to open up employment
@@ -468,7 +618,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
 
     <div class="container-fluid pb-5 mb-5">
       <section class="row position-relative bg-white px-5 flex-column align-items-center  pb-5" id="why">
-        <h2 class="display-3 px-lg-5 mx-lg-5 my-5 py-5">Our Partners</h2>
+        <h2 class="display-2 text-uppercase px-lg-5 mx-lg-5 my-5 py-5">Our Partners</h2>
 
         <img src="assets/img/partners.PNG" alt="">
         <img src="assets/img/partners2.PNG" alt="">
@@ -476,18 +626,106 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
     </div>
 
     <div class="container mb-5 pb-5">
-      <h2 class="display-3 mt-5 pt-5">Our Job Listing</h2>
+      <h2 class="display-2 text-uppercase mt-5 pt-5 text-center">Available Jobs</h2>
       <section class="row" id="job">
         <article class="row mt-5 w-100 mx-auto">
-          <div class="col-md-6 col-lg-4">
-            <div class="card p-4">
-              <img class="card-img-top" src="..." alt="Card image cap">
+          <div class="col-md-12 col-lg-4">
+            <div class="card ">
+              <img class="card-img-top" src="assets/img/slides/3.jpeg" alt="Card image cap">
               <div class="card-body">
-                <h5 class="h6 text-muted text-center mt-4">Job Title</h5>
-                <h4 class="font-weight-500 text-center mt-0">Cleaners</h4>
+                <div class="align-items-center d-flex justify-content-between">
+                  <div>
+                    <h5 class="my-0 text-muted h6">Job Title</h5>
+                    <h4 class="my-0 h3 text-uppercase">Security</h4>
+                  </div>
+                  <div>
+                    <h5 class="my-0 text-muted h6">Country</h5>
+                    <h4 class="my-0 h3 text-uppercase">Qatar</h4>
+                  </div>
+                </div>
+                <hr class="my-4">
+                <div class="justify-content-between row">
 
+                  <h4 class="h3 ml-3">REQUIREMENTS</h4>
+                  <div class="">
+
+
+                    <h5 class="my-0 text-muted h6">salary</h5>
+                    <h4 class="my-0 h3 text-uppercase text-primary font-weight-900">QR 1300</h4>
+                  </div>
+                </div>
+                <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
                 <div class="row">
-                  <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Get More Info</a>
+
+                  <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Apply</a>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-4">
+            <div class="card ">
+              <img class="card-img-top" src="assets/img/slides/3.jpeg" alt="Card image cap">
+              <div class="card-body">
+                <div class="align-items-center d-flex justify-content-between">
+                  <div>
+                    <h5 class="my-0 text-muted h6">Job Title</h5>
+                    <h4 class="my-0 h3 text-uppercase">Security</h4>
+                  </div>
+                  <div>
+                    <h5 class="my-0 text-muted h6">Country</h5>
+                    <h4 class="my-0 h3 text-uppercase">Qatar</h4>
+                  </div>
+                </div>
+                <hr class="my-4">
+                <div class="justify-content-between row">
+
+                  <h4 class="h3 ml-3">REQUIREMENTS</h4>
+                  <div class="">
+
+
+                    <h5 class="my-0 text-muted h6">salary</h5>
+                    <h4 class="my-0 h3 text-uppercase text-primary font-weight-900">QR 1300</h4>
+                  </div>
+                </div>
+                <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
+                <div class="row">
+
+                  <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Apply</a>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-4">
+            <div class="card ">
+              <img class="card-img-top" src="assets/img/slides/3.jpeg" alt="Card image cap">
+              <div class="card-body">
+                <div class="align-items-center d-flex justify-content-between">
+                  <div>
+                    <h5 class="my-0 text-muted h6">Job Title</h5>
+                    <h4 class="my-0 h3 text-uppercase">Security</h4>
+                  </div>
+                  <div>
+                    <h5 class="my-0 text-muted h6">Country</h5>
+                    <h4 class="my-0 h3 text-uppercase">Qatar</h4>
+                  </div>
+                </div>
+                <hr class="my-4">
+                <div class="justify-content-between row">
+
+                  <h4 class="h3 ml-3">REQUIREMENTS</h4>
+                  <div class="">
+
+
+                    <h5 class="my-0 text-muted h6">salary</h5>
+                    <h4 class="my-0 h3 text-uppercase text-primary font-weight-900">QR 1300</h4>
+                  </div>
+                </div>
+                <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
+                <div class="row">
+
+                  <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Apply</a>
                 </div>
 
               </div>
@@ -501,9 +739,37 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
         </article>
       </section>
     </div>
+    <section class="site-section py-5 mt-5 bg-str-secondary">
+      <!-- Photo Grid -->
+      <div class="container ">
+        <div class="col-sm-12 col-md-12">
+          <h2 class="display-2 text-uppercase mt-5 pt-5 text-center section-heading  ">
+            Our Gallery
+          </h2>
+        </div>
+        <div class="row flex-wrap py-5 my-5">
+          <div class="column">
+            <img src="assets/img/slides/1.jpeg" style="width:100%">
+            <img src="assets/img/slides/3.jpeg" style="width:100%">
+            <img src="assets/img/slides/2.jpeg" style="width:100%">
+          </div>
+          <div class="column">
+            <img src="assets/img/slides/4.jpeg" style="width:100%">
+            <img src="assets/img/slides/8.jpeg" style="width:100%">
+            <img src="assets/img/slides/5.jpeg" style="width:100%">
+          </div>
+          <div class="column">
+            <img src="assets/img/slides/6.jpeg" style="width:100%">
+            <img src="assets/img/slides/7.jpeg" style="width:100%">
+            <img src="assets/img/slides/9.jpeg" style="width:100%">
+          </div>
+        </div>
+      </div>
+    </section>
 
-    <div class="bg-white container-fluid py-5 my-5 d-none">
-      <h2 class="display-3 text-center">Frequently Asked Questions</h2>
+
+    <div class="bg-white container-fluid py-5 mb-5 d-none">
+      <h2 class="display-2 text-uppercase text-center">Frequently Asked Questions</h2>
       <h4 class="h4 mx-5 px-5 mb-5 font-weight-400 pt-3 text-center">
         We are here for you, feel free to pay us a visit anytime
       </h4>
@@ -576,10 +842,10 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-6 text-center mb-5">
-            <h2 class="heading-section">Drop Us a message</h2>
+            <h2 class="display-2 text-uppercase ">Drop Us a message</h2>
           </div>
         </div>
-        <div class="row justify-content-center">
+        <div class=" row justify-content-center">
           <div class="col-md-12">
             <div class="wrapper">
               <div class="row no-gutters">
