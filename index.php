@@ -7,8 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta http-equiv="Cache-control" content="no-cache">
 
-  <meta name="title" content="LELEI PRENCY EXPRESS HR CONSULTANT LTD " />
-  <meta name="description" content="LELEI PRENCY EXPRESS HR CONSULTANT LTD  recruitment agencies that helps job seekers find jobs in the gufl countries" />
+  <meta name="title" content="LELEI PRENCY EXPRESS RECRUITMENT AGENCY " />
+  <meta name="description" content="LELEI PRENCY EXPRESS RECRUITMENT AGENCY  recruitment agencies that helps job seekers find jobs in the gufl countries" />
   <meta name="keywords" content="recruitment agencies in kenya,jobs in qatar,jobs in dubai,jobs,in uae,kenya best recruitment agency,ALMOHTADA TRAVEL LTD,find jobs in the middle east
 recruitment process,
 recruitment agencies,
@@ -16,7 +16,7 @@ recruitment agencies nairobi,
 recruitment agency,
 recruitment agencies in qatar,
 recruitment agencies in kenya for qatar,
-a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in kenya" />
+a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in kenya" />
 
   <meta name="robots" content="index" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -340,6 +340,18 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       border-color: #a3f1f6;
       background: #0d7ceb linear-gradient(180deg, #3ed0e7, #1fc6fa) repeat-x;
     }
+
+    img.card-img-top {
+      height: 16rem;
+      object-fit: cover;
+    }
+
+    @media (min-width: 576px) {
+      /* .flags-ico img {
+        max-width: 25%;
+
+      } */
+    }
   </style>
 </head>
 
@@ -501,7 +513,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
           </div>
           <div class="bg-white col-md-6 mt-5 p-5 pt-5 rounded " data-aos="fade-left">
 
-            <h1 class="display-2 ">LELEI PRENCY EXPRESS HR CONSULTANT LTD</h1>
+            <h1 class="display-2 ">LELEI PRENCY EXPRESS RECRUITMENT AGENCY</h1>
             <h2 class="display-4 pt-3 font-weight-300  ">
               We are a multi-faceted
               company providing total solutions for human resource.
@@ -706,7 +718,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       <h2 class="display-2 text-uppercase mt-5 pt-5 text-center">Available Jobs</h2>
       <section class="row" id="job">
         <article class="row mt-5 w-100 mx-auto">
-          <div class="col-md-12 col-lg-4">
+          <!-- <div class="col-md-12 col-lg-4">
             <div class="card ">
               <img class="card-img-top" src="assets/img/slides/3.jpeg" alt="Card image cap">
               <div class="card-body">
@@ -739,7 +751,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
 
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="col-md-12 col-lg-4">
             <div class="card ">
               <img class="card-img-top" src="assets/img/slides/3.jpeg" alt="Card image cap">
@@ -749,21 +761,13 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
                     <h5 class="my-0 text-muted h6">Job Title</h5>
                     <h4 class="my-0 h3 text-uppercase">Security</h4>
                   </div>
-                  <div>
-                    <h5 class="my-0 text-muted h6">Country</h5>
-                    <h4 class="my-0 h3 text-uppercase">Qatar</h4>
-                  </div>
+
                 </div>
                 <hr class="my-4">
                 <div class="justify-content-between row">
 
                   <h4 class="h3 ml-3">REQUIREMENTS</h4>
-                  <div class="">
 
-
-                    <h5 class="my-0 text-muted h6">salary</h5>
-                    <h4 class="my-0 h3 text-uppercase text-primary font-weight-900">QR 1300</h4>
-                  </div>
                 </div>
                 <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
                 <div class="row">
@@ -776,28 +780,124 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
           </div>
           <div class="col-md-12 col-lg-4">
             <div class="card ">
-              <img class="card-img-top" src="assets/img/slides/3.jpeg" alt="Card image cap">
+              <img class="card-img-top" src="assets/img/workers/driver.jpg" alt="Card image cap">
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
                   <div>
                     <h5 class="my-0 text-muted h6">Job Title</h5>
-                    <h4 class="my-0 h3 text-uppercase">Security</h4>
+                    <h4 class="my-0 h3 text-uppercase">Driver</h4>
                   </div>
-                  <div>
-                    <h5 class="my-0 text-muted h6">Country</h5>
-                    <h4 class="my-0 h3 text-uppercase">Qatar</h4>
-                  </div>
+
                 </div>
                 <hr class="my-4">
                 <div class="justify-content-between row">
 
                   <h4 class="h3 ml-3">REQUIREMENTS</h4>
-                  <div class="">
 
+                </div>
+                <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
+                <div class="row">
 
-                    <h5 class="my-0 text-muted h6">salary</h5>
-                    <h4 class="my-0 h3 text-uppercase text-primary font-weight-900">QR 1300</h4>
+                  <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Apply</a>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-4">
+            <div class="card ">
+              <img class="card-img-top" src="assets/img/workers/maid.jpg" alt="Card image cap">
+              <div class="card-body">
+                <div class="align-items-center d-flex justify-content-between">
+                  <div>
+                    <h5 class="my-0 text-muted h6">Job Title</h5>
+                    <h4 class="my-0 h3 text-uppercase">maid</h4>
                   </div>
+
+                </div>
+                <hr class="my-4">
+                <div class="justify-content-between row">
+
+                  <h4 class="h3 ml-3">REQUIREMENTS</h4>
+
+                </div>
+                <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
+                <div class="row">
+
+                  <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Apply</a>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-4">
+            <div class="card ">
+              <img class="card-img-top" src="assets/img/workers/rider.jpg" alt="Card image cap">
+              <div class="card-body">
+                <div class="align-items-center d-flex justify-content-between">
+                  <div>
+                    <h5 class="my-0 text-muted h6">Job Title</h5>
+                    <h4 class="my-0 h3 text-uppercase">rider</h4>
+                  </div>
+
+                </div>
+                <hr class="my-4">
+                <div class="justify-content-between row">
+
+                  <h4 class="h3 ml-3">REQUIREMENTS</h4>
+
+                </div>
+                <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
+                <div class="row">
+
+                  <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Apply</a>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-4">
+            <div class="card ">
+              <img class="card-img-top" src="assets/img/workers/worker.jpg" alt="Card image cap">
+              <div class="card-body">
+                <div class="align-items-center d-flex justify-content-between">
+                  <div>
+                    <h5 class="my-0 text-muted h6">Job Title</h5>
+                    <h4 class="my-0 h3 text-uppercase">Labourers</h4>
+                  </div>
+
+                </div>
+                <hr class="my-4">
+                <div class="justify-content-between row">
+
+                  <h4 class="h3 ml-3">REQUIREMENTS</h4>
+
+                </div>
+                <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
+                <div class="row">
+
+                  <a class="btn btn-warning btn-block w-75 mx-auto" href="#contact">Apply</a>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-4">
+            <div class="card ">
+              <img class="card-img-top" src="assets/img/workers/waiter.jpg" alt="Card image cap">
+              <div class="card-body">
+                <div class="align-items-center d-flex justify-content-between">
+                  <div>
+                    <h5 class="my-0 text-muted h6">Job Title</h5>
+                    <h4 class="my-0 h3 text-uppercase">waiter</h4>
+                  </div>
+
+                </div>
+                <hr class="my-4">
+                <div class="justify-content-between row">
+
+                  <h4 class="h3 ml-3">REQUIREMENTS</h4>
+
                 </div>
                 <p class="gutentor-text"><br>– CV. <br>– Full <span class="tou-node" id="tou-4-badbaa46-5c40-44ad-ad14-56cc1541d45f" lang="fr"></span> attached on CV. <br>– Valid <span class="tou-node" id="tou-6-ee7dada1-bba4-4705-8d73-eb2afe974e82" lang="fr"></span>.<br>– Certificate of good conduct. <br>– Good <span class="tou-node" id="tou-10-730c508f-1841-494f-87b7-4c8d7098ecbd" lang="fr"></span> skills.<br>– <span class="tou-node" id="tou-12-f72a1bcf-6f35-4938-9fbc-6185072dd1eb"></span> Experience.<br>– <span class="tou-node" id="tou-14-b573ebfa-a147-46b0-8723-aac05588b465" lang="fr"></span> letter.</p>
                 <div class="row">
@@ -816,7 +916,36 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
         </article>
       </section>
     </div>
-    <section class="site-section py-5 mt-5 bg-str-secondary" id="gallery">
+    <section class="site-section bg-white -5 pb-5">
+      <h2 class="display-2 text-uppercase mt-5 pt-5 text-center">Countries we deal with</h2>
+      <div class=" justify-content-lg-center row mb-5 py-5">
+        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+          <img src="assets/img/flags/ae.svg" alt="" class="">
+        </div>
+        <div class=" col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+          <img src="assets/img/flags/kw.svg" alt="" class="">
+        </div>
+        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+          <img src="assets/img/flags/bh.svg" alt="" class="">
+        </div>
+        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+          <img src="assets/img/flags/sa.svg" alt="" class="">
+        </div>
+        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+          <img src="assets/img/flags/qa.svg" alt="" class="">
+        </div>
+        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+          <img src="assets/img/flags/ca.svg" alt="" class="">
+        </div>
+        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+          <img src="assets/img/flags/gb.svg" alt="" class="">
+        </div>
+        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+          <img src="assets/img/flags/nz.svg" alt="" class="">
+        </div>
+      </div>
+    </section>
+    <section class="site-section py-5  bg-str-secondary" id="gallery">
       <!-- Photo Grid -->
       <div class="container ">
         <div class="col-sm-12 col-md-12">
