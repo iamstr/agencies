@@ -919,28 +919,28 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
     <section class="site-section bg-white -5 pb-5">
       <h2 class="display-2 text-uppercase mt-5 pt-5 text-center">Countries we deal with</h2>
       <div class=" justify-content-lg-center row mb-5 py-5">
-        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+        <div class="col-3 col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
           <img src="assets/img/flags/ae.svg" alt="" class="">
         </div>
-        <div class=" col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+        <div class="col-3 col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
           <img src="assets/img/flags/kw.svg" alt="" class="">
         </div>
-        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+        <div class="col-3 col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
           <img src="assets/img/flags/bh.svg" alt="" class="">
         </div>
-        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+        <div class="col-3 col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
           <img src="assets/img/flags/sa.svg" alt="" class="">
         </div>
-        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+        <div class="col-3 col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
           <img src="assets/img/flags/qa.svg" alt="" class="">
         </div>
-        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+        <div class="col-3 col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
           <img src="assets/img/flags/ca.svg" alt="" class="">
         </div>
-        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+        <div class="col-3 col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
           <img src="assets/img/flags/gb.svg" alt="" class="">
         </div>
-        <div class="col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
+        <div class="col-3 col-xs-3 col-sm-3 col-lg-1 flags-ico pb-5">
           <img src="assets/img/flags/nz.svg" alt="" class="">
         </div>
       </div>
