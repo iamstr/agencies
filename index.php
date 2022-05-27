@@ -353,7 +353,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
             <i class="fa fa-2x fa-map"></i>
           </span>
           <span class="cwp-contact-info-content">
-            <h4 class="cwp-contact-info-title">Kimathi St, Kimathi Chambers 5th Floor. </h4>
+            <h4 class="cwp-contact-info-title">Kimathi St, Kimathi Chambers 6th floor RM 5. </h4>
             <span class="cwp-contact-info-text">
               <a href="">
                 Nairobi, Kenya. </a>
@@ -481,7 +481,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
           </div>
           <div class="aos-animate aos-init col-md-6 mt-5 order-md-1 pt-5" data-aos="fade">
 
-            <h1 class="display-2 ">LELEI PRENCY EXPRESS HR CONSULTANT LTD</h1>
+            <h1 class="display-2 ">LELEI PRENCY EXPRESS RECRUITMENT AGENCY</h1>
             <h2 class="display-4 pt-3 font-weight-300  ">
               We are a multi-faceted
               company providing total solutions for human resource.
