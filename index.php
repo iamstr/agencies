@@ -403,14 +403,14 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
             <a class="nav-link scroll" href="#home">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link scroll text-white text-uppercase" href="#why">About Us</a>
+            <a class="nav-link scroll text-white text-uppercase" href="about">About Us</a>
           </li>
 
-          <li class="nav-item d-none">
-            <a class="nav-link scroll text-white text-uppercase" href="#job">Our services</a>
+          <li class="nav-item ">
+            <a class="nav-link scroll text-white text-uppercase" href="#service">Our services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link scroll text-white text-uppercase" href="#other">Jobs</a>
+            <a class="nav-link scroll text-white text-uppercase" href="#job">Jobs</a>
           </li>
           <li class="nav-item">
             <a class="nav-link scroll text-white text-uppercase" href="#other">gallery</a>
@@ -434,7 +434,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
             <h3 class=" text-white  carousel-caption-text display-5">We are </h3>
             <h1 class="text-white display-2">LELEI PRENCY EXPRESS RECRUITMENT AGENCY.</h1>
             <div class="row mx-auto w-50 mt-5">
-              <div class="col"><a href="about.html" class="btn btn-outline-white text-uppercase w-100 btn-lg">about us</a></div>
+              <div class="col"><a href="about" class="btn btn-outline-white text-uppercase w-100 btn-lg">about us</a></div>
               <div class="col"><a href="#contact" class="btn btn-primary text-uppercase w-100 btn-lg">apply</a></div>
             </div>
           </div>
@@ -445,7 +445,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
             <h5 class=" text-white  carousel-caption-text d-none">Second slide label</h5>
             <h1 class="text-white display-1">At LPE Recruitment Agency we Hire, Train & Scrutinize Our Candidates..</h1>
             <div class="row mx-auto w-50 mt-5">
-              <div class="col"><a href="about.html" class="btn btn-outline-white text-uppercase w-100 btn-lg">about us</a></div>
+              <div class="col"><a href="about" class="btn btn-outline-white text-uppercase w-100 btn-lg">about us</a></div>
               <div class="col"><a href="#contact" class="btn btn-primary text-uppercase w-100 btn-lg">apply</a></div>
             </div>
           </div>
@@ -457,7 +457,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
             <h1 class="text-white display-1"> we
               have set out to find employment for our clients in all sectors. .</h1>
             <div class="row mx-auto w-50 mt-5">
-              <div class="col"><a href="about.html" class="btn btn-outline-white text-uppercase w-100 btn-lg">about us</a></div>
+              <div class="col"><a href="about" class="btn btn-outline-white text-uppercase w-100 btn-lg">about us</a></div>
               <div class="col"><a href="#contact" class="btn btn-primary text-uppercase w-100 btn-lg">apply</a></div>
             </div>
           </div>
@@ -509,7 +509,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
             <p> We not only offer recruitment solutions but
               provide a flexible means for the global private &amp; government sector towards fulfilling of domestic
               labor demands. </p>
-            <a href="#job" class="btn btn-block btn-lg btn-warning mt-5 text-uppercase w-50 ">Read more</a>
+            <a href="about" class="btn btn-block btn-lg btn-warning mt-5 text-uppercase w-50 ">Read more</a>
 
           </div>
 
@@ -587,7 +587,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       </div>
     </div>
 
-    <section class="site-section ">
+    <section class="site-section " id="service">
 
       <div class="container my-5">
         <div class="row mb-5 justify-content-center">
@@ -643,7 +643,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
 
 
 
-    <div class="container-fluid pb-5 mb-5">
+    <div class="container-fluid pb-5 mb-5" id="why">
       <section class="row position-relative bg-white px-5" id="why" data-aos="fade-up-right">
         <h2 class="display-2 text-uppercase px-lg-5 mx-lg-5 mt-5 pt-5 text-center">What we do?</h2>
         <h4 class="h4 px-lg-5 mx-lg-5 mb-5 font-weight-400 pt-3">
@@ -702,7 +702,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
     </div>
 
 
-    <div class="container mb-5 pb-5">
+    <div class="container mb-5 pb-5" id="jobs">
       <h2 class="display-2 text-uppercase mt-5 pt-5 text-center">Available Jobs</h2>
       <section class="row" id="job">
         <article class="row mt-5 w-100 mx-auto">
@@ -816,7 +816,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
         </article>
       </section>
     </div>
-    <section class="site-section py-5 mt-5 bg-str-secondary">
+    <section class="site-section py-5 mt-5 bg-str-secondary" id="gallery">
       <!-- Photo Grid -->
       <div class="container ">
         <div class="col-sm-12 col-md-12">
@@ -1131,20 +1131,20 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
           <div class="col-lg-6 text-lg-center">
             <ul class="list-unstyled nav-links nav-left mb-4 mb-lg-0">
               <li class="">
-                <a class="nav-link scroll" href="#home">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link scroll" href="#">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="">
-                <a class="" href="#why">About Us</a>
+                <a class="" href="about">About Us</a>
               </li>
 
               <li class="">
-                <a class="" href="#job">Our services</a>
+                <a class="" href="#service">Our services</a>
               </li>
               <li class="">
-                <a class="" href="#other">Jobs</a>
+                <a class="" href="#jobs">Jobs</a>
               </li>
               <li class="">
-                <a class="" href="#other">gallery</a>
+                <a class="" href="#gallery">gallery</a>
               </li>
               <li class="">
                 <a class="" href="#contact">Contact Us</a>
