@@ -23,7 +23,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
   <meta name="language" content="English" />
   <meta name="author" content="Abdisatar Mohamed" />
 
-  <title>LELEI PRENCY EXPRESS HR CONSULTANT LTD</title>
+  <title>LELEI PRENCY EXPRESS RECRUITMENT AGENCY</title>
   <!-- Favicon -->
 
   <link rel="apple-touch-icon" sizes="57x57" href="assets/logo/apple-icon-57x57.png">
@@ -193,6 +193,152 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
         flex: 100%;
         max-width: 100%;
       }
+    }
+  </style>
+  <style>
+    .footer-59391 {
+      border-top: 1px solid #efefef;
+      background-color: #fff;
+      font-family: "Poppins", sans-serif;
+      padding: 4rem 0;
+    }
+
+    .footer-59391 .social li a {
+      position: relative;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+      background-color: #e6e6e6;
+      /* color: #333333; */
+    }
+
+    .footer-59391 .social li a>span {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    .footer-59391 .nav-links.nav-left li:first-child {
+      padding-left: 0;
+    }
+
+    .footer-59391 .nav-links li {
+      display: inline-block;
+    }
+
+    .footer-59391 .nav-links li a {
+      color: #777;
+      padding: 10px;
+    }
+
+    .ftco-section {
+      padding: 7em 0;
+    }
+
+    .wrapper {
+      width: 100%;
+      -webkit-box-shadow: 0 21px 41px -13px rgb(0 0 0 / 18%);
+      -moz-box-shadow: 0 21px 41px -13px rgba(0, 0, 0, .18);
+      box-shadow: 0 21px 41px -13px rgb(0 0 0 / 18%);
+    }
+
+    .heading-section {
+      font-size: 28px;
+
+    }
+
+    .info-wrap {
+      color: rgba(255, 255, 255, .8);
+    }
+
+    .contact-wrap {
+      background: #fff;
+    }
+
+    #form-message-warning {
+      color: red;
+    }
+
+    #form-message-warning,
+    #form-message-success {
+      display: none;
+    }
+
+    .contactForm .label {
+      color: #000;
+      text-transform: uppercase;
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    #contactForm .form-control {
+      font-size: 16px;
+    }
+
+    .contactForm .form-control {
+      border: none;
+      border-bottom: 1px solid rgba(0, 0, 0, .1);
+      padding: 0;
+    }
+
+    .form-control:focus,
+    .form-control:active {
+      border-color: #01d28e !important;
+    }
+
+    .form-control:focus {
+      color: #495057;
+      background-color: #fff;
+      border-color: #80bdff;
+      outline: 0;
+      -webkit-box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+      box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+    }
+
+    .info-wrap .dbox {
+      width: 100%;
+      color: rgba(255, 255, 255, .8);
+      margin-bottom: 25px px;
+    }
+
+    .info-wrap .dbox p span {
+      font-weight: 500;
+      color: #fff;
+    }
+
+    .info-wrap .dbox .text {
+      width: calc(100% - 50px);
+    }
+
+    .info-wrap .dbox p a {
+      color: #fff;
+    }
+
+    .info-wrap .dbox .icon {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      border: 2px solid rgba(255, 255, 255, .2);
+    }
+
+    .bg-gradient-primary {
+
+      color: #fff;
+      border-color: #1194ef;
+      background: #c6e5fa linear-gradient(180deg, #ecf4fd, #daebfd) repeat-x !important;
+    }
+
+
+    .bg-gradient-info {
+      color: #fff;
+      border-color: #a3f1f6;
+      background: #0d7ceb linear-gradient(180deg, #3ed0e7, #1fc6fa) repeat-x;
     }
   </style>
 </head>
@@ -554,76 +700,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
         </article>
       </section>
     </div>
-    <div class="site-section my-5" id="about">
-      <div class="container">
-        <div class="row mb-5">
 
-          <div class="col-md-6 order-md-2 aos-init aos-animate pl-3" data-aos="fade">
-            <div class="text-left pb-1 border-primary border-success mb-4">
-              <h2 class="">Who we are</h2>
-            </div>
-            <p>Lelei Prency .E.H.C Limited was founded on the precepts of fully operating as a multi-faceted
-              company providing total solutions for human resource. We not only offer recruitment solutions but
-              provide a flexible means for the global private & government sector towards fulfilling of domestic
-              labor demands. We’ve a vast knowledge and special insight, skill and resources to actualize the
-              best manpower services, through proper partnership programs with many of our clients. Screening
-              and shortlisting processes that put great emphasis on retaining the best candidates for our clients.
-            </p>
-
-            <div class="text-left pb-1 border-primary border-success mb-4">
-              <h2 class="">Our mission</h2>
-            </div>
-            <p class="mb-5">
-              Using thought leadership, we search and connect our clients with opportunities in a more valuable,
-              less invasive way where candidates are earned rather than bought. And Kenya as our home has
-              presented the best environment to achieve this. </p>
-
-            <div class="text-left pb-1 border-primary border-success mb-4">
-              <h2 class=""> Company Profile</h2>
-            </div>
-            <p class="mb-5">
-              As your recruiter of choice, we embrace the fact that there’s no limit in quality of talent and human
-              resource in East &Central Africa.
-              We therefore, have made it our business to source and find the best talent across the continent </p>
-            <div class="text-left pb-1 border-primary border-success mb-4">
-              <h2 class=""> Nature of Work</h2>
-            </div>
-            <p class="mb-5">
-              Head Hunting: Our team of headhunters/executive recruiters have proven through experience as
-              having the skill-set to execute recruiting plans within both agency and in-house settings. They also
-              manage all phases of full-cycle recruiting; from initial sourcing & screening through negotiating,
-              placement and onboarding. We effortlessly convert talent into hires.
-            </p>
-            <p class="mb-5">
-              In-house Recruitment: With more & more companies facing a challenge with the cost & general
-              quality of an internal recruitment process, the possibilities of opting for recruitment outsourcing
-              solutions have become more vivid. This is where we step in as additional muscle to add to our
-              executive search and recruitment.
-
-            </p>
-          </div>
-
-
-
-          <div class="col-md-6 ml-auto mb-5 order-md-1 aos-init aos-animate rounded" data-aos="fade">
-            <img src="assets/img/image-background.jpg" alt="" style="object-fit: cover;width: 100%;" class="mb-4 ml-2 rounded">
-            <img src="assets/img/bruce-mars-GzumspFznSE-unsplash.jpg" alt="" style="object-fit: cover;width: 100%;" class="mt-4 ml-3 mr-2 rounded">
-            <img src="assets/img/cytonn-photography-n95VMLxqM2I-unsplash.jpg" alt="" style="object-fit: cover;width: 100%;" class="mt-4 ml-2 rounded">
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-
-    <div class="container-fluid pb-5 mb-5">
-      <section class="row position-relative bg-white px-5 flex-column align-items-center  pb-5" id="why">
-        <h2 class="display-2 text-uppercase px-lg-5 mx-lg-5 my-5 py-5">Our Partners</h2>
-
-        <img src="assets/img/partners.PNG" alt="">
-        <img src="assets/img/partners2.PNG" alt="">
-      </section>
-    </div>
 
     <div class="container mb-5 pb-5">
       <h2 class="display-2 text-uppercase mt-5 pt-5 text-center">Available Jobs</h2>
@@ -1122,152 +1199,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       </div>
     </div>
   </footer>
-  <style>
-    .footer-59391 {
-      border-top: 1px solid #efefef;
-      background-color: #fff;
-      font-family: "Poppins", sans-serif;
-      padding: 4rem 0;
-    }
 
-    .footer-59391 .social li a {
-      position: relative;
-      width: 40px;
-      height: 40px;
-      border-radius: 50%;
-      display: inline-block;
-      margin: 0;
-      padding: 0;
-      background-color: #e6e6e6;
-      /* color: #333333; */
-    }
-
-    .footer-59391 .social li a>span {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
-
-    .footer-59391 .nav-links.nav-left li:first-child {
-      padding-left: 0;
-    }
-
-    .footer-59391 .nav-links li {
-      display: inline-block;
-    }
-
-    .footer-59391 .nav-links li a {
-      color: #777;
-      padding: 10px;
-    }
-
-    .ftco-section {
-      padding: 7em 0;
-    }
-
-    .wrapper {
-      width: 100%;
-      -webkit-box-shadow: 0 21px 41px -13px rgb(0 0 0 / 18%);
-      -moz-box-shadow: 0 21px 41px -13px rgba(0, 0, 0, .18);
-      box-shadow: 0 21px 41px -13px rgb(0 0 0 / 18%);
-    }
-
-    .heading-section {
-      font-size: 28px;
-
-    }
-
-    .info-wrap {
-      color: rgba(255, 255, 255, .8);
-    }
-
-    .contact-wrap {
-      background: #fff;
-    }
-
-    #form-message-warning {
-      color: red;
-    }
-
-    #form-message-warning,
-    #form-message-success {
-      display: none;
-    }
-
-    .contactForm .label {
-      color: #000;
-      text-transform: uppercase;
-      font-size: 12px;
-      font-weight: 600;
-    }
-
-    #contactForm .form-control {
-      font-size: 16px;
-    }
-
-    .contactForm .form-control {
-      border: none;
-      border-bottom: 1px solid rgba(0, 0, 0, .1);
-      padding: 0;
-    }
-
-    .form-control:focus,
-    .form-control:active {
-      border-color: #01d28e !important;
-    }
-
-    .form-control:focus {
-      color: #495057;
-      background-color: #fff;
-      border-color: #80bdff;
-      outline: 0;
-      -webkit-box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
-      box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
-    }
-
-    .info-wrap .dbox {
-      width: 100%;
-      color: rgba(255, 255, 255, .8);
-      margin-bottom: 25px px;
-    }
-
-    .info-wrap .dbox p span {
-      font-weight: 500;
-      color: #fff;
-    }
-
-    .info-wrap .dbox .text {
-      width: calc(100% - 50px);
-    }
-
-    .info-wrap .dbox p a {
-      color: #fff;
-    }
-
-    .info-wrap .dbox .icon {
-      width: 50px;
-      height: 50px;
-      border-radius: 50%;
-      border: 2px solid rgba(255, 255, 255, .2);
-    }
-
-    .bg-gradient-primary {
-
-      color: #fff;
-      border-color: #1194ef;
-      background: #c6e5fa linear-gradient(180deg, #ecf4fd, #daebfd) repeat-x !important;
-    }
-
-
-    .bg-gradient-info {
-      color: #fff;
-      border-color: #a3f1f6;
-      background: #0d7ceb linear-gradient(180deg, #3ed0e7, #1fc6fa) repeat-x;
-    }
-  </style>
   <!-- <script src="assets/jquery.min.js"></script> -->
   <script src="assets/js/bootstrap.bundle.min.js" async></script>
 
