@@ -1,4 +1,4 @@
-let cacheName = "almotahdatravellingltd-pwa";
+let cacheName = "leleiprency-pwa";
 let filesToCache = [
   "assets/css/argon.min.css",
   "assets/css/custom.min.css",
@@ -10,8 +10,7 @@ let filesToCache = [
   "assets/icons/abstract-circle-1.svg",
   "assets/icons/abstract-circle-2.svg",
   "assets/icons/abstract-shape-1.svg",
-  "assets/icons/abstract-shape-2.svg",
-  "assets/logo/ALMOTAHDA.svg"
+  "assets/icons/abstract-shape-2.svg"
 ];
 
 /* Start the service worker and cache all of the app's content */
