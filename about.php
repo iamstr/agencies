@@ -8,8 +8,7 @@
   <meta http-equiv="Cache-control" content="no-cache">
 
   <meta name="title" content="LELEI PRENCY EXPRESS HR CONSULTANT LTD " />
-  <meta name="description"
-    content="LELEI PRENCY EXPRESS HR CONSULTANT LTD  recruitment agencies that helps job seekers find jobs in the gufl countries" />
+  <meta name="description" content="LELEI PRENCY EXPRESS HR CONSULTANT LTD  recruitment agencies that helps job seekers find jobs in the gufl countries" />
   <meta name="keywords" content="recruitment agencies in kenya,jobs in qatar,jobs in dubai,jobs,in uae,kenya best recruitment agency,ALMOHTADA TRAVEL LTD,find jobs in the middle east
 recruitment process,
 recruitment agencies,
@@ -46,13 +45,10 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
   <meta name="theme-color" content="#5535de">
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet preconnect" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
-    integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
-  <link rel="stylesheet"
-    href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900|Display+Playfair:200,300,400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900|Display+Playfair:200,300,400,700">
   <link rel="stylesheet" href="fonts/icomoon/style.css">
 
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -237,8 +233,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
         <div class="row align-items-center">
 
           <div class="col-11 col-xl-2">
-            <img loading="lazy" src="assets/logo/lelei_white.png" alt="ALYA AGENCY" width="220" height="55"
-              class=""></a>
+            <img loading="lazy" src="assets/logo/lelei_white.png" alt="ALYA AGENCY" width="220" height="55" class=""></a>
           </div>
           <div class="col-12 col-md-10 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right" role="navigation">
@@ -267,20 +262,18 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
           </div>
 
 
-          <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#"
-              class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+          <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
 
         </div>
 
       </div>
+    </header>
   </div>
 
-  </header>
 
 
 
-  <div class="site-blocks-cover inner-page-cover overlay" style="background-image: url(images/hero_bg_1.jpg);"
-    data-aos="fade" data-stellar-background-ratio="0.5">
+  <div class="site-blocks-cover inner-page-cover overlay" style="background-image: url(images/hero_bg_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row align-items-center justify-content-center text-center">
 
@@ -300,8 +293,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       <div class="row mb-5">
 
         <div class="col-md-5 ml-auto mb-5 order-md-2" data-aos="fade">
-          <img src="assets/img/bruce-mars-GzumspFznSE-unsplash.jpg" alt="Image" class="img-fluid rounded"
-            style="height: 50rem;object-fit: cover;">
+          <img src="assets/img/bruce-mars-GzumspFznSE-unsplash.jpg" alt="Image" class="img-fluid rounded" style="height: 50rem;object-fit: cover;">
         </div>
         <div class="col-md-6 order-md-1" data-aos="fade">
           <div class="text-left pb-1 border-primary mb-4">
@@ -359,8 +351,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
             employment to skilled and capable Kenyan workers in the international market.</p>
         </div>
         <div class="col-md-5 mb-5 order-lg-1 order-md-2 mr-auto" data-aos="fade">
-          <img src="assets/img/gallery/2.jpeg" alt="Image" class="img-fluid rounded"
-            style="height: 50rem;object-fit: cover;">
+          <img src="assets/img/gallery/2.jpeg" alt="Image" class="img-fluid rounded" style="height: 50rem;object-fit: cover;">
         </div>
 
       </div>
@@ -382,8 +373,7 @@ a recruitment agency,LELEI PRENCY EXPRESS HR CONSULTANT LTD,Hr consultant in ken
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-3">
-            <img loading="lazy" src="assets/logo/lelei.png" alt="Lelei prency express  recruitment agency" width="230"
-              height="60" class=""></a>
+            <img loading="lazy" src="assets/logo/lelei.png" alt="Lelei prency express  recruitment agency" width="230" height="60" class=""></a>
           </div>
           <div class="col-lg-6 text-lg-center">
             <ul class="list-unstyled nav-links nav-left mb-4 mb-lg-0">

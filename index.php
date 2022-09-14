@@ -346,6 +346,15 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
       object-fit: cover;
     }
 
+    .white-gradient {
+
+      bottom: 25%;
+      background: linear-gradient(to bottom, #fffffff0 14px, white);
+      left: 0%;
+      z-index: 2;
+      height: 100rem;
+    }
+
     @media (min-width: 576px) {
       /* .flags-ico img {
         max-width: 25%;
@@ -953,7 +962,7 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
             Our Gallery
           </h2>
         </div>
-        <div class="row flex-wrap py-5 my-5">
+        <div class="row flex-wrap py-5 my-5 position-relative">
           <div class="column">
             <img src="assets/img/slides/1.jpeg" style="width:100%">
             <img src="assets/img/slides/3.jpeg" style="width:100%">
@@ -968,6 +977,9 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
             <img src="assets/img/slides/6.jpeg" style="width:100%">
             <img src="assets/img/slides/7.jpeg" style="width:100%">
             <img src="assets/img/slides/9.jpeg" style="width:100%">
+          </div>
+          <div class="align-items-center d-flex w-100 justify-content-center  pt-5">
+            <a href="gallery" class="btn btn-primary btn-lg w-25"> view more</a>
           </div>
         </div>
       </div>
