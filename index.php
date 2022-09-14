@@ -48,320 +48,12 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
 
 
   <!-- Argon CSS -->
-  <link type="text/css" href="assets/css/argon.css" rel="stylesheet" />
-  <link type="text/css" href="assets/css/custom.css" rel="stylesheet" />
+  <link type="text/css" href="assets/css/argon.min.css" rel="stylesheet" />
+  <link type="text/css" href="assets/css/custom.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" async></script>
-  <style>
-    .carousel-control-prev,
-    .carousel-control-next {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      z-index: 1;
-      display: -ms-flexbox;
-      display: flex;
-      -ms-flex-align: center;
-      align-items: center;
-      -ms-flex-pack: center;
-      justify-content: center;
-      width: 15%;
-      padding: 0;
-      color: #fff;
-      text-align: center;
-      background: 0 0;
-      border: 0;
-      opacity: .5;
-      transition: opacity .15s ease;
-    }
 
-    .carousel-caption,
-    .aos-animate.carousel-caption {
-      position: absolute;
-      z-index: 10;
-      padding-top: 20px;
-      padding-bottom: 20px;
-      text-align: center;
-      color: #fff;
-      text-align: center;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%) !important;
-
-    }
-
-    .carousel-item img.d-block.w-100 {
-      filter: brightness(0.5);
-    }
-
-    h2.carousel-caption-text {
-
-      width: fit-content;
-      margin: auto;
-    }
-  </style>
-
-  <style>
-    .icon-box {
-      padding: 40px;
-      border-radius: 24px;
-      background: #ecf2f5;
-      text-align: center;
-      transition: all .35s;
-      min-height: 28rem;
-    }
-
-    .icon-box:hover,
-    .icon-box.active {
-      border: 0;
-      background: #0d7ceb linear-gradient(180deg, #3ed0e7, #1fc6fa) repeat-x;
-      color: #fff;
-    }
-
-    .icon-box .entry-title {
-      margin-top: 28px;
-      font-size: 24px;
-      font-weight: 600;
-      color: #262626;
-    }
-
-    .block-team-member-1 {
-      padding: 30px;
-      border: 1px solid #e9ecef;
-    }
-
-    .block-team-member-1 figure img {
-      width: 120px;
-      height: 120px;
-      object-fit: cover;
-    }
-
-    .border-primary.text-left:after {
-      -webkit-transform: translateX(0%);
-      transform: translateX(0%);
-    }
-
-    .text-left.pb-1.border-primary.border-success.mb-4 {
-      position: relative;
-    }
-
-    @media (min-width: 768px) {
-      .site-section {
-        padding: 5em 0;
-      }
-    }
-
-    .site-section {
-      padding: 2.5em 0;
-    }
-
-    .bg-lighten-main {
-      background-color: #ebf5f8;
-    }
-
-    /* Create four equal columns that sits next to each other */
-    .column {
-      -ms-flex: 33.333%;
-      /* IE10 */
-      flex: 33.333%;
-      max-width: 33.333%;
-      padding: 0 4px;
-    }
-
-    .column img {
-      margin-top: 8px;
-      vertical-align: middle;
-      width: 100%;
-      border-radius: 7px;
-    }
-
-    /* Responsive layout - makes a two column-layout instead of four columns */
-    @media screen and (max-width: 800px) {
-      .column {
-        -ms-flex: 50%;
-        flex: 50%;
-        max-width: 50%;
-      }
-    }
-
-    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-    @media screen and (max-width: 600px) {
-      .column {
-        -ms-flex: 100%;
-        flex: 100%;
-        max-width: 100%;
-      }
-    }
-  </style>
-  <style>
-    .footer-59391 {
-      border-top: 1px solid #efefef;
-      background-color: #fff;
-      font-family: "Poppins", sans-serif;
-      padding: 4rem 0;
-    }
-
-    .footer-59391 .social li a {
-      position: relative;
-      width: 40px;
-      height: 40px;
-      border-radius: 50%;
-      display: inline-block;
-      margin: 0;
-      padding: 0;
-      background-color: #e6e6e6;
-      /* color: #333333; */
-    }
-
-    .footer-59391 .social li a>span {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
-
-    .footer-59391 .nav-links.nav-left li:first-child {
-      padding-left: 0;
-    }
-
-    .footer-59391 .nav-links li {
-      display: inline-block;
-    }
-
-    .footer-59391 .nav-links li a {
-      color: #777;
-      padding: 10px;
-    }
-
-    .ftco-section {
-      padding: 7em 0;
-    }
-
-    .wrapper {
-      width: 100%;
-      -webkit-box-shadow: 0 21px 41px -13px rgb(0 0 0 / 18%);
-      -moz-box-shadow: 0 21px 41px -13px rgba(0, 0, 0, .18);
-      box-shadow: 0 21px 41px -13px rgb(0 0 0 / 18%);
-    }
-
-    .heading-section {
-      font-size: 28px;
-
-    }
-
-    .info-wrap {
-      color: rgba(255, 255, 255, .8);
-    }
-
-    .contact-wrap {
-      background: #fff;
-    }
-
-    #form-message-warning {
-      color: red;
-    }
-
-    #form-message-warning,
-    #form-message-success {
-      display: none;
-    }
-
-    .contactForm .label {
-      color: #000;
-      text-transform: uppercase;
-      font-size: 12px;
-      font-weight: 600;
-    }
-
-    #contactForm .form-control {
-      font-size: 16px;
-    }
-
-    .contactForm .form-control {
-      border: none;
-      border-bottom: 1px solid rgba(0, 0, 0, .1);
-      padding: 0;
-    }
-
-    .form-control:focus,
-    .form-control:active {
-      border-color: #01d28e !important;
-    }
-
-    .form-control:focus {
-      color: #495057;
-      background-color: #fff;
-      border-color: #80bdff;
-      outline: 0;
-      -webkit-box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
-      box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
-    }
-
-    .info-wrap .dbox {
-      width: 100%;
-      color: rgba(255, 255, 255, .8);
-      margin-bottom: 25px px;
-    }
-
-    .info-wrap .dbox p span {
-      font-weight: 500;
-      color: #fff;
-    }
-
-    .info-wrap .dbox .text {
-      width: calc(100% - 50px);
-    }
-
-    .info-wrap .dbox p a {
-      color: #fff;
-    }
-
-    .info-wrap .dbox .icon {
-      width: 50px;
-      height: 50px;
-      border-radius: 50%;
-      border: 2px solid rgba(255, 255, 255, .2);
-    }
-
-    .bg-gradient-primary {
-
-      color: #fff;
-      border-color: #1194ef;
-      background: #c6e5fa linear-gradient(180deg, #ecf4fd, #daebfd) repeat-x !important;
-    }
-
-
-    .bg-gradient-info {
-      color: #fff;
-      border-color: #a3f1f6;
-      background: #0d7ceb linear-gradient(180deg, #3ed0e7, #1fc6fa) repeat-x;
-    }
-
-    img.card-img-top {
-      height: 16rem;
-      object-fit: cover;
-    }
-
-    .white-gradient {
-
-      bottom: 25%;
-      background: linear-gradient(to bottom, #fffffff0 14px, white);
-      left: 0%;
-      z-index: 2;
-      height: 100rem;
-    }
-
-    @media (min-width: 576px) {
-      /* .flags-ico img {
-        max-width: 25%;
-
-      } */
-    }
-  </style>
 </head>
 
 <body>
@@ -450,7 +142,7 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
 
       <div class="carousel-inner" style="height: 40rem;">
         <div class="carousel-item active">
-          <img src="assets/img/gallery/4.jpeg" class=" d-block w-100" alt="...">
+          <img src="assets/img/gallery/4.jpeg" class=" d-block w-100" alt="first image slide" loading="lazy">
           <div class="carousel-caption d-none d-md-block w-75 " data-aos="fade-in">
             <h3 class=" text-white  carousel-caption-text display-5">We are </h3>
             <h1 class="text-white display-2">LELEI PRENCY EXPRESS RECRUITMENT AGENCY.</h1>
@@ -461,7 +153,7 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           </div>
         </div>
         <div class="carousel-item">
-          <img src="assets/img/gallery/2.jpeg" class=" d-block w-100" alt="...">
+          <img src="assets/img/gallery/2.jpeg" class=" d-block w-100" alt="second slide image " loading="lazy">
           <div class="carousel-caption d-none d-md-block w-75 " data-aos="fade-in">
             <h5 class=" text-white  carousel-caption-text d-none">Second slide label</h5>
             <h1 class="text-white display-1">At LPE Recruitment Agency we Hire, Train & Scrutinize Our Candidates..</h1>
@@ -472,7 +164,7 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           </div>
         </div>
         <div class="carousel-item">
-          <img src="assets/img/gallery/3.jpeg" class=" d-block w-100" alt="...">
+          <img src="assets/img/gallery/3.jpeg" class=" d-block w-100" alt="Third image slide" loading="lazy">
           <div class="carousel-caption d-none d-md-block w-75 " data-aos="fade-in">
             <h5 class=" text-white  carousel-caption-text d-none">Third slide label</h5>
             <h1 class="text-white display-1"> we
@@ -763,7 +455,10 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           </div> -->
           <div class="col-md-12 col-lg-4">
             <div class="card ">
-              <img class="card-img-top" src="assets/img/slides/3.jpeg" alt="Card image cap">
+              <picture>
+                <source srcset="assets/img/slides/3.jpeg" type="image/webp">
+                <img class="card-img-top" src="assets/img/slides/3.jpeg" alt="Card image cap">
+              </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
                   <div>
@@ -789,7 +484,11 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           </div>
           <div class="col-md-12 col-lg-4">
             <div class="card ">
-              <img class="card-img-top" src="assets/img/workers/driver.jpg" alt="Card image cap">
+              <picture>
+                <source srcset="assets/img/workers/driver.jpg" type="image/webp">
+                <source srcset="assets/img/workers/driver.jpg">
+                <img class="card-img-top" src="assets/img/workers/driver.jpg" alt="Card image cap">
+              </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
                   <div>
@@ -815,7 +514,11 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           </div>
           <div class="col-md-12 col-lg-4">
             <div class="card ">
-              <img class="card-img-top" src="assets/img/workers/maid.jpg" alt="Card image cap">
+              <picture>
+                <source srcset="assets/img/workers/maid.webp" type="image/webp">
+                <source srcset="assets/img/workers/maid.jpg">
+                <img class="card-img-top" src="assets/img/workers/maid.jpg" alt="Card image cap">
+              </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
                   <div>
@@ -841,7 +544,11 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           </div>
           <div class="col-md-12 col-lg-4">
             <div class="card ">
-              <img class="card-img-top" src="assets/img/workers/rider.jpg" alt="Card image cap">
+              <picture>
+                <source srcset="assets/img/workers/rider.webp" type="image/webp">
+                <source srcset="assets/img/workers/rider.jpg">
+                <img class="card-img-top" src="assets/img/workers/rider.jpg" alt="Card image cap">
+              </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
                   <div>
@@ -867,7 +574,11 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           </div>
           <div class="col-md-12 col-lg-4">
             <div class="card ">
-              <img class="card-img-top" src="assets/img/workers/worker.jpg" alt="Card image cap">
+              <picture>
+                <source srcset="assets/img/workers/worker.webp" type="image/webp">
+                <source srcset="assets/img/workers/worker.jpg">
+                <img class="card-img-top" src="assets/img/workers/worker.jpg" alt="Card image cap">
+              </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
                   <div>
@@ -893,7 +604,11 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           </div>
           <div class="col-md-12 col-lg-4">
             <div class="card ">
-              <img class="card-img-top" src="assets/img/workers/waiter.jpg" alt="Card image cap">
+              <picture>
+                <source srcset="assets/img/workers/waiter.webp" type="image/webp">
+                <source srcset="assets/img/workers/waiter.jpg">
+                <img class="card-img-top" src="assets/img/workers/waiter.jpg" alt="Card image cap">
+              </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
                   <div>
@@ -964,19 +679,19 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
         </div>
         <div class="row flex-wrap py-5 my-5 position-relative">
           <div class="column">
-            <img src="assets/img/slides/1.jpeg" style="width:100%">
-            <img src="assets/img/slides/3.jpeg" style="width:100%">
-            <img src="assets/img/slides/2.jpeg" style="width:100%">
+            <img src="assets/img/slides/1.jpeg" style="width:100%" loading="lazy">
+            <img src="assets/img/slides/3.jpeg" style="width:100%" loading="lazy">
+            <img src="assets/img/slides/2.jpeg" style="width:100%" loading="lazy">
           </div>
           <div class="column">
-            <img src="assets/img/slides/4.jpeg" style="width:100%">
-            <img src="assets/img/slides/8.jpeg" style="width:100%">
-            <img src="assets/img/slides/5.jpeg" style="width:100%">
+            <img src="assets/img/slides/4.jpeg" style="width:100%" loading="lazy">
+            <img src="assets/img/slides/8.jpeg" style="width:100%" loading="lazy">
+            <img src="assets/img/slides/5.jpeg" style="width:100%" loading="lazy">
           </div>
           <div class="column">
-            <img src="assets/img/slides/6.jpeg" style="width:100%">
-            <img src="assets/img/slides/7.jpeg" style="width:100%">
-            <img src="assets/img/slides/9.jpeg" style="width:100%">
+            <img src="assets/img/slides/6.jpeg" style="width:100%" loading="lazy">
+            <img src="assets/img/slides/7.jpeg" style="width:100%" loading="lazy">
+            <img src="assets/img/slides/9.jpeg" style="width:100%" loading="lazy">
           </div>
           <div class="align-items-center d-flex w-100 justify-content-center  pt-5">
             <a href="gallery" class="btn btn-primary btn-lg w-25"> view more</a>
