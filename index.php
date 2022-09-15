@@ -485,9 +485,9 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           <div class="col-md-12 col-lg-4">
             <div class="card ">
               <picture>
-                <source srcset="assets/img/workers/driver.jpg" type="image/webp">
-                <source srcset="assets/img/workers/driver.jpg">
-                <img class="card-img-top" src="assets/img/workers/driver.jpg" alt="Card image cap">
+                <source srcset="assets/img/workers/driver_2.webp" type="image/webp">
+                <source srcset="assets/img/workers/driver_2.jpg">
+                <img class="card-img-top" src="assets/img/workers/driver_2.jpg" alt="Card image cap">
               </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
@@ -515,9 +515,9 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           <div class="col-md-12 col-lg-4">
             <div class="card ">
               <picture>
-                <source srcset="assets/img/workers/maid.webp" type="image/webp">
-                <source srcset="assets/img/workers/maid.jpg">
-                <img class="card-img-top" src="assets/img/workers/maid.jpg" alt="Card image cap">
+                <source srcset="assets/img/workers/maid_2.webp" type="image/webp">
+                <source srcset="assets/img/workers/maid_2.jpg">
+                <img class="card-img-top" src="assets/img/workers/maid_2.jpg" alt="Card image cap">
               </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
@@ -545,9 +545,9 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           <div class="col-md-12 col-lg-4">
             <div class="card ">
               <picture>
-                <source srcset="assets/img/workers/rider.webp" type="image/webp">
-                <source srcset="assets/img/workers/rider.jpg">
-                <img class="card-img-top" src="assets/img/workers/rider.jpg" alt="Card image cap">
+                <source srcset="assets/img/workers/rider_2.webp" type="image/webp">
+                <source srcset="assets/img/workers/rider_2.jpg">
+                <img class="card-img-top" src="assets/img/workers/rider_2.jpg" alt="Card image cap">
               </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
@@ -575,9 +575,9 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           <div class="col-md-12 col-lg-4">
             <div class="card ">
               <picture>
-                <source srcset="assets/img/workers/worker.webp" type="image/webp">
-                <source srcset="assets/img/workers/worker.jpg">
-                <img class="card-img-top" src="assets/img/workers/worker.jpg" alt="Card image cap">
+                <source srcset="assets/img/workers/worker_2.webp" type="image/webp">
+                <source srcset="assets/img/workers/worker_2.jpg">
+                <img class="card-img-top" src="assets/img/workers/worker_2.jpg" alt="Card image cap">
               </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
@@ -605,9 +605,9 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
           <div class="col-md-12 col-lg-4">
             <div class="card ">
               <picture>
-                <source srcset="assets/img/workers/waiter.webp" type="image/webp">
-                <source srcset="assets/img/workers/waiter.jpg">
-                <img class="card-img-top" src="assets/img/workers/waiter.jpg" alt="Card image cap">
+                <source srcset="assets/img/workers/waiter_2.webp" type="image/webp">
+                <source srcset="assets/img/workers/waiter_2.jpg">
+                <img class="card-img-top" src="assets/img/workers/waiter_2.jpg" alt="Card image cap">
               </picture>
               <div class="card-body">
                 <div class="align-items-center d-flex justify-content-between">
