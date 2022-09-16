@@ -48,7 +48,7 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
 
 
   <!-- Argon CSS -->
-  <link type="text/css" href="assets/css/argon.min.css" rel="stylesheet" />
+  <link type="text/css" href="assets/css/home_purified.min.css" rel="stylesheet" />
   <link type="text/css" href="assets/css/custom.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -190,7 +190,12 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
         <div class="row mb-5 d-none">
 
           <div class="col-md-5 ml-auto mb-5 order-md-2 aos-init aos-animate rounded">
-            <img src="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash.jpg" alt="" style="object-fit: cover;width: 500px;height: 800px;">
+
+            <picture>
+              <source srcset="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash_2.webp" type="image/webp">
+              <source srcset="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash_2.jpg">
+              <img src="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash_2.jpg" alt="" style="object-fit: cover;width: 500px;height: 800px;">
+            </picture>
           </div>
           <div class="aos-animate aos-init col-md-6 mt-5 order-md-1 pt-5" data-aos="fade">
 
@@ -210,7 +215,11 @@ a recruitment agency,LELEI PRENCY EXPRESS RECRUITMENT AGENCY,Hr consultant in ke
         <div class="row mb-5">
 
           <div class="col-md-5 ml-auto mb-5  " data-aos="fade-right">
-            <img src="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash.jpg" alt="" style="object-fit: cover;/* width: 500px; */height: 800px;" class="rounded">
+            <picture>
+              <source srcset="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash_2.webp" type="image/webp">
+              <source srcset="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash_2.jpg">
+              <img src="assets/img/alex-starnes-PK_t0Lrh7MM-unsplash_2.jpg" alt="" style="object-fit: cover;height: 800px;">
+            </picture>
           </div>
           <div class="bg-white col-md-6 mt-5 p-5 pt-5 rounded " data-aos="fade-left">
 
